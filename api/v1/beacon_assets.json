@@ -1,0 +1,310 @@
+"head": {
+  "beacon_assets_count": 76,
+  "updated_at": "2022-01-24T15:21:12Z"
+},
+"beacon_assets": [
+  {
+    "filename": "Einfuehrung_Geraet_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Geraet_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Begrueßung_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Begrueßung_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Abschied_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Abschied_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Wollen_Sie_gehen_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Wollen_Sie_gehen_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Magd_I_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Magd_I_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Magd_II_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Magd_II_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Magd_III_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Magd_III_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Arbeitszimmer_I_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Arbeitszimmer_I_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Arbeitszimmer_II_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Arbeitszimmer_II_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Arbeitszimmer_I_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Arbeitszimmer_I_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Arbeitszimmer_II_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Arbeitszimmer_II_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Arbeitszimmer_III_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Arbeitszimmer_III_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Arbeitszimmer_IV_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Arbeitszimmer_IV_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Arbeitszimmer_V_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Arbeitszimmer_V_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Arbeitszimmer_VI_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Arbeitszimmer_VI_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Kammer_I_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Kammer_I_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Kammer_II_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Kammer_II_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Kammer_I_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Kammer_I_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Kammer_II_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Kammer_II_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Kammer_III_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Kammer_III_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Kammer_IV_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Kammer_IV_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Kammer_V_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Kammer_V_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Salon_I_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Salon_I_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Salon_II_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Salon_II_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Salon_I_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Salon_I_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Salon_II_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Salon_II_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Salon_III_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Salon_III_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Salon_IV_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Salon_IV_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Salon_V_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Salon_V_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Zwischentext_I_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Zwischentext_I_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Bibliothek_I_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Bibliothek_I_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Bibliothek_II_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Einfuehrung_Bibliothek_II_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Bibliothek_I_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Bibliothek_I_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Bibliothek_II_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Bibliothek_II_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Bibliothek_III_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen _Bibliothek_III_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Bibliothek_IV_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Bibliothek_IV_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Bibliothek_V_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Verlassen_Bibliothek_V_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Begrueßung_de_DE.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  },
+  {
+    "filename": "Begrueßung_en_GB.mp3",
+    "updated_at": "2022-01-24T15:21:12Z"
+  }
+]
