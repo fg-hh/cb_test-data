@@ -1,132 +1,132 @@
 "head": {
-  "tags_count": 9,
+  "tags_count": 30,
   "updated_at": "2022-01-24T15:21:12Z"
 },
 "tags": [
   {
     "id": 2,
     "room": "stairway [mid]",
-    "image_filename": "Diener.jpg",
+    "image_url": "assets/Diener.jpg",
     "updated_at": "2022-01-24T15:21:12Z",
     "de": {
       "title": "Stifterbild aus Scheda",
-      "filename": "Scheda_de_DE.mp3"
+      "url": "assets/Scheda_de_DE.mp3"
     },
     "en": {
       "title": "Stifterbild aus Scheda EN",
-      "filename": "Scheda_en_GB.mp3"
+      "url": "assets/Scheda_en_GB.mp3"
     }
   },
   {
     "id": 3,
     "room": "Galery West",
-    "image_filename": "Diener.jpg",
+    "image_url": "assets/Diener.jpg",
     "updated_at": "2022-01-24T15:21:12Z",
     "de": {
       "title": "Herkunft der Familie",
-      "filename": "Namen_Herkunft_de_DE.mp3"
+      "url": "assets/Namen_Herkunft_de_DE.mp3"
     },
     "en": {
       "title": "Herkunft der Familie EN",
-      "filename": "Namen_Herkunft_en_GB.mp3"
+      "url": "assets/Namen_Herkunft_en_GB.mp3"
     }
   },
   {
     "id": 4,
     "room": "Galery West",
-    "image_filename": "Diener.jpg",
+    "image_url": "assets/Diener.jpg",
     "updated_at": "2022-01-24T15:21:12Z",
     "de": {
       "title": "Stand der Familie",
-      "filename": "Stand_der_Familie_de_DE.mp3"
+      "url": "assets/Stand_der_Familie_de_DE.mp3"
     },
     "en": {
       "title": "Stand der Familie EN",
-      "filename": "Stand_der_Familie_en_GB.mp3"
+      "url": "assets/Stand_der_Familie_en_GB.mp3"
     }
   },
   {
     "id": 5,
     "room": "Galery West",
-    "image_filename": "Diener.jpg",
+    "image_url": "assets/Diener.jpg",
     "updated_at": "2022-01-24T15:21:12Z",
     "de": {
       "title": "Erziehung und Jugend",
-      "filename": "Erziehung_Jugend_de_DE.mp3"
+      "url": "assets/Erziehung_Jugend_de_DE.mp3"
     },
     "en": {
       "title": "Erziehung und Jugend EN",
-      "filename": "Erziehung_Jugend_en_GB.mp3"
+      "url": "assets/Erziehung_Jugend_en_GB.mp3"
     }
   },
   {
     "id": 6,
     "room": "Galery West",
-    "image_filename": "Diener.jpg",
+    "image_url": "assets/Diener.jpg",
     "updated_at": "2022-01-24T15:21:12Z",
     "de": {
       "title": "Studium",
-      "filename": "Studium_de_DE.mp3"
+      "url": "assets/Studium_de_DE.mp3"
     },
     "en": {
       "title": "Studium EN",
-      "filename": "Studium_en_GB.mp3"
+      "url": "assets/Studium_en_GB.mp3"
     }
   },
   {
     "id": 7,
     "room": "Galery West",
-    "image_filename": "Diener.jpg",
+    "image_url": "assets/Diener.jpg",
     "updated_at": "2022-01-24T15:21:12Z",
     "de": {
       "title": "Frömmigkeit und Gottvertrauen",
-      "filename": "Gottvertrauen_de_DE.mp3"
+      "url": "assets/Gottvertrauen_de_DE.mp3"
     },
     "en": {
       "title": "Frömmigkeit und Gottvertrauen EN",
-      "filename": "Gottvertrauen_en_GB.mp3"
+      "url": "assets/Gottvertrauen_en_GB.mp3"
     }
   },
   {
     "id": 8,
     "room": "Office",
-    "image_filename": "Diener.jpg",
+    "image_url": "assets/Diener.jpg",
     "updated_at": "2022-01-24T15:21:12Z",
     "de": {
       "title": "Eintritt in die Politik",
-      "filename": "Steins_Überzeugung_de_DE.mp3"
+      "url": "assets/Steins_Überzeugung_de_DE.mp3"
     },
     "en": {
       "title": "Eintritt in die Politik EN",
-      "filename": "Steins_Überzeugung_en_GB.mp3"
+      "url": "assets/Steins_Überzeugung_en_GB.mp3"
     }
   },
   {
     "id": 9,
     "room": "Office",
-    "image_filename": "Diener.jpg",
+    "image_url": "assets/Diener.jpg",
     "updated_at": "2022-01-24T15:21:12Z",
     "de": {
       "title": "Stein als Oberbergrat",
-      "filename": "Oberbergrat_Stein_de_DE.mp3"
+      "url": "assets/Oberbergrat_Stein_de_DE.mp3"
     },
     "en": {
       "title": "Stein als Oberbergrat EN",
-      "filename": "Oberbergrat_Stein_en_GB.mp3"
+      "url": "assets/Oberbergrat_Stein_en_GB.mp3"
     }
   },
   {
     "id": 10,
     "room": "Office",
-    "image_filename": "Diener.jpg",
+    "image_url": "assets/Diener.jpg",
     "updated_at": "2022-01-24T15:21:12Z",
     "de": {
       "title": "Dienstsitz in Minden",
-      "filename": "Dienstsitz_Minden_de_DE.mp3""
+      "url": "assets/Dienstsitz_Minden_de_DE.mp3""
     },
     "en": {
       "title": "Dienstsitz in Minden EN",
-      "filename": "Dienstsitz_Minden_en_GB.mp3"
+      "url": "assets/Dienstsitz_Minden_en_GB.mp3"
     }
   }
 ]

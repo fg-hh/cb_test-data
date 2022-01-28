@@ -4,8 +4,8 @@
 Bisher 9 Einträge zum testen
 https://raw.githubusercontent.com/fg-hh/cb_test-data/main/api/v1/tags.json
 
-## beacon_assets als updated_at-Liste der Dateinamen
-https://raw.githubusercontent.com/fg-hh/cb_test-data/main/api/v1/beacon_assets.json
+## beacons mit assets und Daten zur Bestimmung
+https://raw.githubusercontent.com/fg-hh/cb_test-data/main/api/v1/beacons.json
 
 ## einfache Liste der asset um Aktualisierung aller assets abzufragen
 https://raw.githubusercontent.com/fg-hh/cb_test-data/main/api/v1/assets.json
