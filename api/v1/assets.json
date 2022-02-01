@@ -1,526 +1,528 @@
-"head": {
-  "assets_total": 130,
-  "updated_at": "2022-01-24T15:21:12Z"
-},
-"assets": [
-  {
-    "filename": "Einfuehrung_Geraet_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Geraet_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Begrueßung_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Begrueßung_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Abschied_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Abschied_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Scheda_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Scheda_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Wollen_Sie_gehen_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Wollen_Sie_gehen_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Magd_I_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Magd_I_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Magd_II_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Magd_II_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Magd_III_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Magd_III_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Namen_Herkunft_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Namen_Herkunft_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Stand_der_Familie_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Stand_der_Familie_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Erziehung_Jugend_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Erziehung_Jugend_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Studium_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Studium_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Gottvertrauen_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Gottvertrauen_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Arbeitszimmer_I_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Arbeitszimmer_I_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Arbeitszimmer_II_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Arbeitszimmer_II_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Arbeitszimmer_I_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Arbeitszimmer_I_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Arbeitszimmer_II_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Arbeitszimmer_II_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Arbeitszimmer_III_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Arbeitszimmer_III_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Arbeitszimmer_IV_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Arbeitszimmer_IV_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Arbeitszimmer_V_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Arbeitszimmer_V_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Arbeitszimmer_VI_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Arbeitszimmer_VI_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Steins_Überzeugung_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Steins_Überzeugung_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Oberbergrat_Stein_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Oberbergrat_Stein_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Dienstsitz_Minden_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Dienstsitz_Minden_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Stein_will_Fortschritt_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Stein_will_Fortschritt_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Säkularisierung_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Säkularisierung_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Stein_Finanzsystem_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Stein_Finanzsystem_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Kabinetsräte_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Kabinetsräte_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Entlassung_als_Finanzminister_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Entlassung_als_Finanzminister_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Nassauer_Denkschrift_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Nassauer_Denkschrift_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Bauernbefreiung_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Bauernbefreiung_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Kammer_I_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Kammer_I_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Kammer_II_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Kammer_II_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Kammer_I_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Kammer_I_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Kammer_II_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Kammer_II_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Kammer_III_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Kammer_III_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Kammer_IV_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Kammer_IV_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Kammer_V_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Kammer_V_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Napolen_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Napolen_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Flucht_als_Geaechteter_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Flucht_als_Geaechteter_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Krankheit_Steins_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Krankheit_Steins_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Salon_I_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Salon_I_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Salon_II_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Salon_II_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Salon_I_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Salon_I_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Salon_II_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Salon_II_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Salon_III_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Salon_III_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Salon_IV_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Salon_IV_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Salon_V_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Salon_V_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Familie_Stein _I_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Familie_Stein _I_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Familie_Stein _II_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Familie_Stein _II_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Politik_Westphalen_I_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Politik_Westphalen_I_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Politik_Westphalen_II_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Politik_Westphalen_II_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Weltpolitik_I_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Weltpolitik_I_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Weltpolitik_II_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Weltpolitik_II_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Bidermeier_Vormaerz_I_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Bidermeier_Vormaerz_I_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Bidermeier_Vormaerz_II_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Bidermeier_Vormaerz_II_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Zwischentext_I_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Zwischentext_I_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Bibliothek_I_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Bibliothek_I_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Bibliothek_II_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Einfuehrung_Bibliothek_II_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Bibliothek_I_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Bibliothek_I_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Bibliothek_II_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Bibliothek_II_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Bibliothek_III_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen _Bibliothek_III_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Bibliothek_IV_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Bibliothek_IV_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Bibliothek_V_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Verlassen_Bibliothek_V_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Begrueßung_de_DE.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  },
-  {
-    "filename": "Begrueßung_en_GB.mp3",
-    "updated_at": "2022-01-24T15:21:12Z"
-  }
-]
+{
+  "head": {
+    "assets_total": 130,
+    "updated_at": "2022-02-01T14:50:56.519Z"
+  },
+  "assets": [
+    {
+      "filename": "Einfuehrung_Geraet_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Geraet_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Begrueßung_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Begrueßung_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Abschied_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Abschied_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Scheda_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Scheda_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Wollen_Sie_gehen_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Wollen_Sie_gehen_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Magd_I_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Magd_I_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Magd_II_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Magd_II_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Magd_III_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Magd_III_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Namen_Herkunft_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Namen_Herkunft_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Stand_der_Familie_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Stand_der_Familie_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Erziehung_Jugend_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Erziehung_Jugend_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Studium_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Studium_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Gottvertrauen_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Gottvertrauen_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Arbeitszimmer_I_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Arbeitszimmer_I_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Arbeitszimmer_II_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Arbeitszimmer_II_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Arbeitszimmer_I_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Arbeitszimmer_I_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Arbeitszimmer_II_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Arbeitszimmer_II_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Arbeitszimmer_III_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Arbeitszimmer_III_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Arbeitszimmer_IV_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Arbeitszimmer_IV_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Arbeitszimmer_V_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Arbeitszimmer_V_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Arbeitszimmer_VI_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Arbeitszimmer_VI_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Steins_Überzeugung_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Steins_Überzeugung_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Oberbergrat_Stein_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Oberbergrat_Stein_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Dienstsitz_Minden_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Dienstsitz_Minden_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Stein_will_Fortschritt_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Stein_will_Fortschritt_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Säkularisierung_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Säkularisierung_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Stein_Finanzsystem_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Stein_Finanzsystem_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Kabinetsräte_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Kabinetsräte_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Entlassung_als_Finanzminister_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Entlassung_als_Finanzminister_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Nassauer_Denkschrift_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Nassauer_Denkschrift_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Bauernbefreiung_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Bauernbefreiung_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Kammer_I_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Kammer_I_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Kammer_II_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Kammer_II_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Kammer_I_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Kammer_I_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Kammer_II_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Kammer_II_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Kammer_III_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Kammer_III_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Kammer_IV_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Kammer_IV_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Kammer_V_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Kammer_V_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Napolen_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Napolen_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Flucht_als_Geaechteter_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Flucht_als_Geaechteter_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Krankheit_Steins_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Krankheit_Steins_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Salon_I_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Salon_I_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Salon_II_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Salon_II_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Salon_I_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Salon_I_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Salon_II_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Salon_II_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Salon_III_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Salon_III_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Salon_IV_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Salon_IV_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Salon_V_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Salon_V_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Familie_Stein _I_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Familie_Stein _I_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Familie_Stein _II_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Familie_Stein _II_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Politik_Westphalen_I_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Politik_Westphalen_I_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Politik_Westphalen_II_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Politik_Westphalen_II_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Weltpolitik_I_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Weltpolitik_I_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Weltpolitik_II_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Weltpolitik_II_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Bidermeier_Vormaerz_I_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Bidermeier_Vormaerz_I_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Bidermeier_Vormaerz_II_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Bidermeier_Vormaerz_II_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Zwischentext_I_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Zwischentext_I_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Bibliothek_I_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Bibliothek_I_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Bibliothek_II_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Einfuehrung_Bibliothek_II_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Bibliothek_I_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Bibliothek_I_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Bibliothek_II_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Bibliothek_II_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Bibliothek_III_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen _Bibliothek_III_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Bibliothek_IV_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Bibliothek_IV_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Bibliothek_V_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Verlassen_Bibliothek_V_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Begrueßung_de_DE.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    },
+    {
+      "filename": "Begrueßung_en_GB.mp3",
+      "updated_at": "2022-02-01T14:50:56.519Z"
+    }
+  ]
+}
