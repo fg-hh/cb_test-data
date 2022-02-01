@@ -13,11 +13,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Einführung in das Gerät",
-        "url": "assets/Einfuehrung_Geraet_de_DE.mp3"
+        "url": "assets/Einfuehrung_Geraet_de-DE.mp3"
       },
       "en": {
         "title": "Einführung in das Gerät EN",
-        "url": "assets/Einfuehrung_Geraet_en_GB.mp3"
+        "url": "assets/Einfuehrung_Geraet_en-GB.mp3"
       }
     },
     {
@@ -29,11 +29,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Willkommen auf Cappenberg",
-        "url": "assets/Begrueßung_de_DE.mp3"
+        "url": "assets/Begrueßung_de-DE.mp3"
       },
       "en": {
         "title": "Willkommen auf Cappenberg EN",
-        "url": "assets/Begrueßung_en_GB.mp3"
+        "url": "assets/Begrueßung_en-GB.mp3"
       }
     },
     {
@@ -45,11 +45,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Auf Wiedersehen",
-        "url": "assets/Abschied_de_DE.mp3"
+        "url": "assets/Abschied_de-DE.mp3"
       },
       "en": {
         "title": "Auf Wiedersehen EN",
-        "url": "assets/Abschied_en_GB.mp3"
+        "url": "assets/Abschied_en-GB.mp3"
       }
     },
     {
@@ -61,11 +61,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Wollen Sie wirklich gehen?",
-        "url": "assets/Wollen_Sie_gehen_de_DE.mp3"
+        "url": "assets/Wollen_Sie_gehen_de-DE.mp3"
       },
       "en": {
         "title": "Wollen Sie wirklich gehen? EN",
-        "url": "assets/Wollen_Sie_gehen_en_GB.mp3"
+        "url": "assets/Wollen_Sie_gehen_en-GB.mp3"
       }
     },
     {
@@ -77,11 +77,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Geschichte der Magd",
-        "url": "assets/Magd_I_de_DE.mp3"
+        "url": "assets/Magd_I_de-DE.mp3"
       },
       "en": {
         "title": "Geschichte der Magd EN",
-        "url": "assets/Magd_I_en_GB.mp3"
+        "url": "assets/Magd_I_en-GB.mp3"
       }
     },
     {
@@ -93,11 +93,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Geschichte der Magd II",
-        "url": "assets/Magd_II_de_DE.mp3"
+        "url": "assets/Magd_II_de-DE.mp3"
       },
       "en": {
         "title": "Geschichte der Magd II EN",
-        "url": "assets/Magd_II_en_GB.mp3"
+        "url": "assets/Magd_II_en-GB.mp3"
       }
     },
     {
@@ -109,11 +109,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Geschichte der Magd III",
-        "url": "assets/Magd_III_de_DE.mp3"
+        "url": "assets/Magd_III_de-DE.mp3"
       },
       "en": {
         "title": "Geschichte der Magd III EN",
-        "url": "assets/Magd_III_en_GB.mp3"
+        "url": "assets/Magd_III_en-GB.mp3"
       }
     },
     {
@@ -125,11 +125,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Willkommen im Arbeitszimmer",
-        "url": "assets/Einfuehrung_Arbeitszimmer_I_de_DE.mp3"
+        "url": "assets/Einfuehrung_Arbeitszimmer_I_de-DE.mp3"
       },
       "en": {
         "title": "Willkommen im Arbeitszimmer EN",
-        "url": "assets/Einfuehrung_Arbeitszimmer_I_en_GB.mp3"
+        "url": "assets/Einfuehrung_Arbeitszimmer_I_en-GB.mp3"
       }
     },
     {
@@ -141,11 +141,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Willkommen im Arbeitszimmer",
-        "url": "assets/Einfuehrung_Arbeitszimmer_II_de_DE.mp3"
+        "url": "assets/Einfuehrung_Arbeitszimmer_II_de-DE.mp3"
       },
       "en": {
         "title": "Willkommen im Arbeitszimmer EN",
-        "url": "assets/Einfuehrung_Arbeitszimmer_II_en_GB.mp3"
+        "url": "assets/Einfuehrung_Arbeitszimmer_II_en-GB.mp3"
       }
     },
     {
@@ -157,11 +157,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Folgen Sie mir",
-        "url": "assets/Verlassen_Arbeitszimmer_I_de_DE.mp3"
+        "url": "assets/Verlassen_Arbeitszimmer_I_de-DE.mp3"
       },
       "en": {
         "title": "Folgen Sie mir EN",
-        "url": "assets/Verlassen_Arbeitszimmer_I_en_GB.mp3"
+        "url": "assets/Verlassen_Arbeitszimmer_I_en-GB.mp3"
       }
     },
     {
@@ -173,11 +173,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Folgen Sie mir",
-        "url": "assets/Verlassen_Arbeitszimmer_II_de_DE.mp3"
+        "url": "assets/Verlassen_Arbeitszimmer_II_de-DE.mp3"
       },
       "en": {
         "title": "Folgen Sie mir EN",
-        "url": "assets/Verlassen_Arbeitszimmer_II_en_GB.mp3"
+        "url": "assets/Verlassen_Arbeitszimmer_II_en-GB.mp3"
       }
     },
     {
@@ -189,11 +189,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Folgen Sie mir",
-        "url": "assets/Verlassen_Arbeitszimmer_III_de_DE.mp3"
+        "url": "assets/Verlassen_Arbeitszimmer_III_de-DE.mp3"
       },
       "en": {
         "title": "Folgen Sie mir EN",
-        "url": "assets/Verlassen_Arbeitszimmer_III_en_GB.mp3"
+        "url": "assets/Verlassen_Arbeitszimmer_III_en-GB.mp3"
       }
     },
     {
@@ -205,11 +205,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Folgen Sie mir",
-        "url": "assets/Verlassen_Arbeitszimmer_IV_de_DE.mp3"
+        "url": "assets/Verlassen_Arbeitszimmer_IV_de-DE.mp3"
       },
       "en": {
         "title": "Folgen Sie mir EN",
-        "url": "assets/Verlassen_Arbeitszimmer_IV_en_GB.mp3"
+        "url": "assets/Verlassen_Arbeitszimmer_IV_en-GB.mp3"
       }
     },
     {
@@ -221,11 +221,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Folgen Sie mir",
-        "url": "assets/Verlassen_Arbeitszimmer_V_de_DE.mp3"
+        "url": "assets/Verlassen_Arbeitszimmer_V_de-DE.mp3"
       },
       "en": {
         "title": "Folgen Sie mir EN",
-        "url": "assets/Verlassen_Arbeitszimmer_V_en_GB.mp3"
+        "url": "assets/Verlassen_Arbeitszimmer_V_en-GB.mp3"
       }
     },
     {
@@ -237,11 +237,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z",
       "de": {
         "title": "Folgen Sie mir",
-        "url": "assets/Verlassen_Arbeitszimmer_VI_de_DE.mp3"
+        "url": "assets/Verlassen_Arbeitszimmer_VI_de-DE.mp3"
       },
       "en": {
         "title": "Folgen Sie mir EN",
-        "url": "assets/Verlassen_Arbeitszimmer_VI_en_GB.mp3"
+        "url": "assets/Verlassen_Arbeitszimmer_VI_en-GB.mp3"
       }
     }
 
