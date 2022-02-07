@@ -1,0 +1,502 @@
+﻿[
+  /* Beacon 1 => Einführung Gerät */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        "Name": "Einfuehrung_Geraet",
+        "Duration": "00:05:05"
+      }
+    },
+    "ID": "423",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 1.0,
+    "BeaconName": "FoyerBeacon_1"
+  },
+
+  /* Beacon 2 => Willkommen auf Cappenberg  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        "Name": "Begrueßung",
+        "Duration": "00:00:40"
+      },
+      "2": {
+        "Name": "Abschied",
+        "Duration": "00:00:08"
+      }
+    },
+    "ID": "123",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 1.0,
+    "BeaconName": "StairwayBeacon_2"
+  },
+
+  /* Beacon 18 => Willkommen in der Galerie Ost  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        "Name": "Einführung_Galerie_Ost",
+        "Duration": "00:00:40"
+      }
+    },
+    "ID": "18",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 1.0,
+    "BeaconName": "Galery_EastBeacon_18"
+  },
+
+  /* Beacon 3a und 4a => Wollen Sie wirklich gehen?  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        //"Name": "Wollen_Sie_gehen",
+        "Name": "Einfuehrung_Geraet",
+        "Duration": "00:00:08"
+      }
+    },
+    "ID": "123",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 1.0,
+    "BeaconName": "StairwayUpDinerExitBeaconLeft_3a"
+  },
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        //"Name": "Wollen_Sie_gehen",
+        "Name": "Einfuehrung_Geraet",
+        "Duration": "00:00:08"
+      }
+    },
+    "ID": "123",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 1.0,
+    "BeaconName": "StairwayUpDinerExitBeaconRight_4a"
+  },
+
+
+  /* Beacon 3 und 4 => Geschichte der Magd Teil I  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        "Name": "Magd1",
+        "Duration": "00:00:08"
+        //"Duration": "00:06:47"
+      }
+    },
+    "ID": "323",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 1.0,
+    "BeaconName": "StairwayUpMagd1WelcomeBeaconLeft_3"
+  },
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        "Name": "Magd1",
+        "Duration": "00:00:08"
+      }
+    },
+    "ID": "123",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 1.0,
+    "BeaconName": "StairwayUpMagd1WelcomeBeaconRight_4"
+  },
+
+
+  /* Beacon 5 => Geschichte der Magd Teil II  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        //"Name": "Magd2",
+        "Name": "Magd1",
+        "Duration": "00:00:08"
+      }
+    },
+    "ID": "123",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 1.0,
+    "BeaconName": "GaleryWestMagd2Beacon_5"
+  },
+
+  /* Beacon 6 => Geschichte der Magd Teil III  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        //"Name": "Magd3",
+        "Name": "Magd1",
+        "Duration": "00:00:08"
+      }
+    },
+    "ID": "123",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 1.0,
+    "BeaconName": "GaleryWestMagd3Beacon_6"
+  },
+
+
+  /* Beacon 7 => Verlassen Arbeitszimmer mit 8 Versionen  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        //"Name": "Verlassen_Arbeitszimmer_I",
+        "Name": "Einfuehrung_Geraet",
+        "Duration": "00:00:20"
+      },
+      "2": {
+        //"Name": "Verlassen_Arbeitszimmer_II",
+        "Name": "Magd1",
+        "Duration": "00:00:20"
+      },
+      "3": {
+        "Name": "Verlassen_Arbeitszimmer_III",
+        "Duration": "00:00:20"
+      },
+      "4": {
+        "Name": "Verlassen_Arbeitszimmer_IV",
+        "Duration": "00:00:20"
+      },
+      "5": {
+        "Name": "Verlassen_Arbeitszimmer_V",
+        "Duration": "00:00:20"
+      },
+      "6": {
+        "Name": "Verlassen_Arbeitszimmer_VI",
+        "Duration": "00:00:20"
+      },
+      "7": {
+        "Name": "Verlassen_Arbeitszimmer_VII",
+        "Duration": "00:00:20"
+      },
+      "8": {
+        "Name": "Verlassen_Arbeitszimmer_VIII",
+        "Duration": "00:00:20"
+      }
+    },
+    "ID": "223",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 1.0,
+    "BeaconName": "RoomDoorBeacon_Office_7"
+  },
+
+  /* Beacon 8 => Einführung in das Arbeitszimmer mit 2 Versionen  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        //"Name": "Einfuehrung_Arbeitszimmer_I",
+        "Name": "Begrueßung",
+        "Duration": "00:00:10"
+        //"Duration": "00:01:40"
+      },
+      "2": {
+        //"Name": "Einfuehrung_Arbeitszimmer_II",
+        "Name": "Abschied",
+        "Duration": "00:00:20"
+      }
+    },
+    "ID": "123",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 0.8,
+    "BeaconName": "RoomInsideBeacon_Office_8"
+  },
+
+
+  /* Beacon 10 => Verlassen Kammer mit 10 Versionen  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        //"Name": "Verlassen_Kammer_I",
+        "Name": "Einfuehrung_Geraet",
+        "Duration": "00:00:15"
+      },
+      "2": {
+        //"Name": "Verlassen_Kammer_II",
+        "Name": "Magd1",
+        "Duration": "00:00:15"
+      },
+      "3": {
+        "Name": "Verlassen_Kammer_III",
+        "Duration": "00:00:05"
+      },
+      "4": {
+        "Name": "Verlassen_Kammer_IV",
+        "Duration": "00:00:05"
+      },
+      "5": {
+        "Name": "Verlassen_Kammer_V",
+        "Duration": "00:00:05"
+      },
+      "6": {
+        "Name": "Verlassen_Kammer_VI",
+        "Duration": "00:00:05"
+      },
+      "7": {
+        "Name": "Verlassen_Kammer_VII",
+        "Duration": "00:00:05"
+      },
+      "8": {
+        "Name": "Verlassen_Kammer_VIII",
+        "Duration": "00:00:05"
+      },
+      "9": {
+        "Name": "Verlassen_Kammer_IX",
+        "Duration": "00:00:05"
+      },
+      "10": {
+        "Name": "Verlassen_Kammer_X",
+        "Duration": "00:00:05"
+      }
+    },
+    "ID": "222",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 1.0,
+    "BeaconName": "RoomDoorBeacon_Chamber_10"
+  },
+
+  /* Beacon 9 => Einführung in die Kammer mit 2 Versionen  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        //"Name": "Einfuehrung_Kammer_I",
+        "Name": "Begrueßung",
+        "Duration": "00:01:30"
+        //"Duration": "00:01:40"
+      },
+      "2": {
+        //"Name": "Einfuehrung_Kammer_II",
+        "Name": "Abschied",
+        "Duration": "00:00:15"
+      }
+    },
+    "ID": "123",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 0.8,
+    "BeaconName": "RoomInsideBeacon_Chamber_9"
+  },
+
+  /* Beacon 12 => Einführung in den Salon mit 2 Versionen  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        //"Name": "Einfuehrung_Salon_I",
+        "Name": "Begrueßung",
+        "Duration": "00:01:30"
+        //"Duration": "00:01:40"
+      },
+      "2": {
+        //"Name": "Einfuehrung_Salon_II",
+        "Name": "Abschied",
+        "Duration": "00:00:15"
+      }
+    },
+    "ID": "1",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 0.8,
+    "BeaconName": "RoomInsideBeacon_Salon_12"
+  },
+
+  /* Beacon 11 => Verlassen Salon mit 10 Versionen  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        //"Name": "Verlassen_Salon_I",
+        "Name": "Einfuehrung_Geraet",
+        "Duration": "00:00:15"
+      },
+      "2": {
+        //"Name": "Verlassen_Salon_II",
+        "Name": "Magd1",
+        "Duration": "00:00:15"
+      },
+      "3": {
+        "Name": "Verlassen_Salon_III",
+        "Duration": "00:00:05"
+      },
+      "4": {
+        "Name": "Verlassen_Salon_IV",
+        "Duration": "00:00:05"
+      },
+      "5": {
+        "Name": "Verlassen_Salon_V",
+        "Duration": "00:00:05"
+      },
+      "6": {
+        "Name": "Verlassen_Salon_VI",
+        "Duration": "00:00:05"
+      },
+      "7": {
+        "Name": "Verlassen_Salon_VII",
+        "Duration": "00:00:05"
+      },
+      "8": {
+        "Name": "Verlassen_Salon_VIII",
+        "Duration": "00:00:05"
+      },
+      "9": {
+        "Name": "Verlassen_Salon_IX",
+        "Duration": "00:00:05"
+      },
+      "10": {
+        "Name": "Verlassen_Salon_X",
+        "Duration": "00:00:05"
+      }
+    },
+    "ID": "2",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 1.0,
+    "BeaconName": "RoomDoorBeacon_Salon_11"
+  },
+
+
+  /* Beacon 16 => Einführung in die Bibliothek mit 2 Versionen  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        //"Name": "Einfuehrung_Bibliothek_I",
+        "Name": "Begrueßung",
+        "Duration": "00:01:30"
+        //"Duration": "00:01:40"
+      },
+      "2": {
+        //"Name": "Einfuehrung_Bibliothek_II",
+        "Name": "Abschied",
+        "Duration": "00:00:15"
+      }
+    },
+    "ID": "3",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 0.8,
+    "BeaconName": "RoomInsideBeacon_Library_16"
+  },
+
+  /* Beacon 15 => Verlassen Bibliothek mit 8 Versionen  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        //"Name": "Verlassen_Bibliothek_I",
+        "Name": "Einfuehrung_Geraet",
+        "Duration": "00:00:15"
+      },
+      "2": {
+        //"Name": "Verlassen_Bibliothek_II",
+        "Name": "Magd1",
+        "Duration": "00:00:15"
+      },
+      "3": {
+        "Name": "Verlassen_Bibliothek_III",
+        "Duration": "00:00:05"
+      },
+      "4": {
+        "Name": "Verlassen_Bibliothek_IV",
+        "Duration": "00:00:05"
+      },
+      "5": {
+        "Name": "Verlassen_Bibliothek_V",
+        "Duration": "00:00:05"
+      },
+      "6": {
+        "Name": "Verlassen_Bibliothek_VI",
+        "Duration": "00:00:05"
+      },
+      "7": {
+        "Name": "Verlassen_Bibliothek_VII",
+        "Duration": "00:00:05"
+      },
+      "8": {
+        "Name": "Verlassen_Bibliothek_VIII",
+        "Duration": "00:00:05"
+      }
+    },
+    "ID": "2222",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 1.0,
+    "BeaconName": "RoomDoorBeacon_Bibliothek_15"
+  },
+
+  /* Beacon 20 => Einführung in den Steinsaal mit 2 Versionen  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        "Name": "Einführung-Steinsaal_I",
+        "Duration": "00:01:30"
+      },
+      "2": {
+        "Name": "Einführung-Steinsaal_II",
+        "Duration": "00:00:15"
+      }
+    },
+    "ID": "20",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 0.8,
+    "BeaconName": "RoomInsideBeacon_Steinsaal_20"
+  },
+
+  /* Beacon 19 => Verlassen Steinsaal mit 1 Version  */
+  {
+    "NumberToAudioFileName": {
+      "1": {
+        "Name": "Verlassen_Steinsaal",
+        "Duration": "00:00:30"
+      }
+    },
+    "ID": "19",
+    "VisitCount": 0,
+    "AlreadyPlayed": false,
+    "PlayedTimestamp": "1900-01-01T10:00:00",
+    "MaxRSSIValue": 60,
+    "MaxDistanceInMeter": 1.0,
+    "BeaconName": "RoomDoorBeacon_Steinsaal_19"
+  }
+]
