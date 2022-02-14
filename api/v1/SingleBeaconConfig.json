@@ -1,10 +1,10 @@
-﻿[
+[
   /* Beacon 1 => Einführung Gerät */
   {
     "NumberToAudioFileName": {
       "1": {
         "Name": "Einfuehrung_Geraet",
-        "Duration": "00:00:20"
+        "Duration": "00:00:21"
       }
     },
     "ID": "1",
