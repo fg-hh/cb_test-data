@@ -2,5 +2,6 @@
   "HeadSetPageWaitingTime": "00:00:05",
   "MaxFilterRSSIValue": 70,
   "AudioFileUpdateCheckEnabled": false,
+  "UseCMSConfig": true,
   "WaitingTimeBetweenAudioOfIndependendBeacon": 30
 }

@@ -4,10 +4,10 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Einfuehrung_Geraet",
-        "Duration": "00:05:05"
+        "Duration": "00:00:20"
       }
     },
-    "ID": "423",
+    "ID": "1",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -58,9 +58,8 @@
   {
     "NumberToAudioFileName": {
       "1": {
-        //"Name": "Wollen_Sie_gehen",
-        "Name": "Einfuehrung_Geraet",
-        "Duration": "00:00:08"
+        "Name": "Wollen_Sie_gehen",
+        "Duration": "00:00:20"
       }
     },
     "ID": "123",
@@ -74,9 +73,8 @@
   {
     "NumberToAudioFileName": {
       "1": {
-        //"Name": "Wollen_Sie_gehen",
-        "Name": "Einfuehrung_Geraet",
-        "Duration": "00:00:08"
+        "Name": "Wollen_Sie_gehen",
+        "Duration": "00:00:20"
       }
     },
     "ID": "123",
@@ -93,9 +91,8 @@
   {
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Magd1",
-        "Duration": "00:00:08"
-        //"Duration": "00:06:47"
+        "Name": "Magd_I",
+        "Duration": "00:00:20"
       }
     },
     "ID": "323",
@@ -109,8 +106,8 @@
   {
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Magd1",
-        "Duration": "00:00:08"
+        "Name": "Magd_I",
+        "Duration": "00:00:20"
       }
     },
     "ID": "123",
@@ -127,9 +124,8 @@
   {
     "NumberToAudioFileName": {
       "1": {
-        //"Name": "Magd2",
-        "Name": "Magd1",
-        "Duration": "00:00:08"
+        "Name": "Magd_II",
+        "Duration": "00:00:20"
       }
     },
     "ID": "123",
@@ -145,9 +141,8 @@
   {
     "NumberToAudioFileName": {
       "1": {
-        //"Name": "Magd3",
-        "Name": "Magd1",
-        "Duration": "00:00:08"
+        "Name": "Magd_III",
+        "Duration": "00:00:20"
       }
     },
     "ID": "123",
@@ -326,7 +321,7 @@
         "Duration": "00:00:15"
       }
     },
-    "ID": "1",
+    "ID": "133",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",

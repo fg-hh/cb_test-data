@@ -7,7 +7,7 @@
         "Duration": "00:00:40",
         "DisplayText": "Stifterbild aus Scheda#Founder picture from Scheda",
         "ImageName": "DinerJohann.png",
-        "AudioFileName": "Scheda_de-DE"
+        "AudioFileName": "Scheda"
       }
     ]
   },
@@ -17,35 +17,35 @@
       {
         "ID": "3",
         "Duration": "00:00:40",
-        "DisplayText": "Herkunft der Familie#Family origin",
+        "DisplayText": "Herkunft der Familie vom und zum Stein#Origin of the family vom und zum Stein",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Namen_Herkunft"
       },
       {
         "ID": "4",
         "Duration": "00:00:40",
-        "DisplayText": "Stand der Familie#Family status",
+        "DisplayText": "Wappenkalender der rheinischen Reichsritterschaft, Mainz 1776#Heraldic Calendar of the Rhenish Imperial Knighthood, Mainz 1776",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Stand_der_Familie"
       },
       {
         "ID": "5",
         "Duration": "00:00:40",
-        "DisplayText": "Erziehung und Jugend#Education and youth",
+        "DisplayText": "Familienportraits#Family portraits",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Erziehung_Jugend"
       },
       {
         "ID": "6",
         "Duration": "00:00:40",
-        "DisplayText": "Studium#Study",
+        "DisplayText": "Studium in Göttingen (1773 - 1777)#Studies in Göttingen (1773 - 1777)",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Studium"
       },
       {
         "ID": "7",
         "Duration": "00:00:40",
-        "DisplayText": "Frömmigkeit und  Gottvertrauen#Piety and trust in God",
+        "DisplayText": "Christus im Garten Gethsemane, 1786, Johann Christoph Rincklake#Christ in the Garden of Gethsemane, 1786, Johann Christoph Rincklake",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Gottvertrauen"
       }
@@ -57,70 +57,70 @@
       {
         "ID": "8",
         "Duration": "00:01:40",
-        "DisplayText": "Eintritt in die Politik#Entry into politics",
+        "DisplayText": "1780: Eintritt in den preußischen Staatsdienst#1780: Entry into the Prussian civil service",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Steins_Überzeugung"
       },
       {
         "ID": "9",
         "Duration": "00:00:40",
-        "DisplayText": "Stein als Oberbergrat#Stein as chief ridge",
+        "DisplayText": "1784: Freiherr vom Stein wird Oberbergrat#1784: Baron vom Stein becomes chief burgrave",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Oberbergrat_Stein"
       },
       {
         "ID": "10",
         "Duration": "00:00:40",
-        "DisplayText": "Dienstsitz in Minden#Headquarters in Minden",
+        "DisplayText": "1796: Oberkammerpräsident mit Dienstsitz in Minden#1796: President of the upper chamber with official residence in Minden",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Dienstsitz_Minden"
       },
       {
         "ID": "11",
         "Duration": "00:00:40",
-        "DisplayText": "Stein will Fortschritt#Stein wants progress",
+        "DisplayText": "Industriespionage in England#Industrial espionage in England",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Stein_will_Fortschritt"
       },
       {
         "ID": "12",
         "Duration": "00:01:40",
-        "DisplayText": "Säkularisierung#Secularization",
+        "DisplayText": "1802: Säkularisation der Bischofssitze in Westfalen#1802: Secularization of the bishoprics in Westphalia",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Säkularisierung"
       },
       {
         "ID": "13",
         "Duration": "00:00:40",
-        "DisplayText": "Modernisierung des Finanzsystems#Modernization of the financial system",
+        "DisplayText": "1806: Modernisierung des Finanzsystems#1806: Modernisation of the financial system",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Stein_Finanzsystem"
       },
       {
         "ID": "14",
         "Duration": "00:00:40",
-        "DisplayText": "Wiederstand gegen Kabinetsräte#Resistance to cabinet councils",
+        "DisplayText": "1806: Widerstand gegen die Kabinettsräte des Königs#1806: Resistance to the King's cabinet councils",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Kabinetsräte"
       },
       {
         "ID": "15",
         "Duration": "00:00:40",
-        "DisplayText": "Entlassung als Finanzminister#Dismissal as Minister of Finance",
+        "DisplayText": "1807: Rücktritt als Finanzminister#1807: Resignation as Minister of Finance",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Entlassung_als_Finanzminister"
       },
       {
         "ID": "16",
         "Duration": "00:01:40",
-        "DisplayText": "Nassauer Denkschrift#Nassau Memorandum",
+        "DisplayText": "1807: Die Nassauer Denkschrift#1807: The Nassau Memorandum",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Nassauer_Denkschrift"
       },
       {
         "ID": "17",
         "Duration": "00:01:40",
-        "DisplayText": "Bauernbefreiung und Städteordnung#Peasant liberation and city order",
+        "DisplayText": "1807: Preußische Reformen#1807: Prussian reforms",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Bauernbefreiung"
       }
@@ -132,26 +132,103 @@
       {
         "ID": "18",
         "Duration": "00:00:30",
-        "DisplayText": "Napolen",
+        "DisplayText": "1808: Flucht vor Napoleon#1808: Escape from Napoleon",
         "ImageName": "Magd.png",
         "AudioFileName": "Napolen"
       },
       {
         "ID": "19",
         "Duration": "00:00:30",
-        "DisplayText": "Flucht als Geächteter#Escape as an outlaw",
+        "DisplayText": "1809: Exil in Prag#1809: Exile in Prague",
         "ImageName": "Magd.png",
         "AudioFileName": "Flucht_als_Geaechteter"
       },
       {
-        "ID": "20x",
+        "ID": "20",
         "Duration": "00:00:30",
-        "DisplayText": "Krankheit Steins#Disease Steins",
+        "DisplayText": "Reisesessel des Freiherrn vom Stein, Original, um 1813/20#Baron vom Stein's travelling chair, original, c. 1813/20",
         "ImageName": "Magd.png",
         "AudioFileName": "Krankheit_Steins"
       }
     ]
   },
+  /* Salon mit Dialog */
+  {
+    "RoomName": "Salon",
+    "NFCTagAudioAssignment": [
+      {
+        "ID": "21",
+        "Duration": "00:00:30",
+        "DisplayText": "Wissenswertes über die Familie#Things to know about the family",
+        "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
+        "AudioFileName": "Familie_Stein_I"
+      },
+      {
+        "ID": "21Yes",
+        "Duration": "00:00:30",
+        "DisplayText": "Wissenswertes über die Familie#Things to know about the family",
+        "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
+        "AudioFileName": "Familie_Stein_II"
+      },
+      {
+        "ID": "22",
+        "Duration": "00:00:30",
+        "DisplayText": "Aktuelle Politik in Westfalen#Current politics in Westphalia",
+        "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
+        "AudioFileName": "Politik_Westphalen_I"
+      },
+      {
+        "ID": "22Yes",
+        "Duration": "00:00:30",
+        "DisplayText": "Aktuelle Politik in Westfalen#Current politics in Westphalia",
+        "ImageName": "Magd.png",
+        "AudioFileName": "Politik_Westphalen_II"
+      },
+      {
+        "ID": "23",
+        "Duration": "00:00:30",
+        "DisplayText": "Neues aus der Welt#News from the world",
+        "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
+        "AudioFileName": "Weltpolitik_I"
+      },
+      {
+        "ID": "23Yes",
+        "Duration": "00:00:30",
+        "DisplayText": "Neues aus der Welt#News from the world",
+        "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
+        "AudioFileName": "Weltpolitik_II"
+      },
+      {
+        "ID": "24",
+        "Duration": "00:00:30",
+        "DisplayText": "Kunst und Kultur#Art and culture",
+        "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
+        "AudioFileName": "Bidermeier_Vormaerz_I"
+      },
+      {
+        "ID": "24Yes",
+        "Duration": "00:00:30",
+        "DisplayText": "Kunst und Kultur#Art and culture",
+        "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
+        "AudioFileName": "Bidermeier_Vormaerz_II"
+      },
+      {
+        "ID": "25",
+        "Duration": "00:00:30",
+        "DisplayText": "1812: Berater des russischen Zaren#1812: Advisor to the Russian tsar",
+        "ImageName": "DinerJohann.png",
+        "AudioFileName": "Stein_in_russischen_Diensten"
+      },
+      {
+        "ID": "26",
+        "Duration": "00:00:30",
+        "DisplayText": "1814/15: Wiener Kongress#1814/15: Congress of Vienna",
+        "ImageName": "DinerJohann.png",
+        "AudioFileName": "Wiener_Kongress"
+      }
+    ]
+  },
+  /* Bibliothek */
   {
     "RoomName": "Library",
     "NFCTagAudioAssignment": [
@@ -185,6 +262,7 @@
       }
     ]
   },
+  /* Galerie Ost */
   {
     "RoomName": "GaleryEast",
     "NFCTagAudioAssignment": [
@@ -232,7 +310,7 @@
       }
     ]
   },
-
+  /* Steinsaal */
   {
     "RoomName": "Steinsaal",
     "NFCTagAudioAssignment": [
@@ -245,31 +323,5 @@
       }
     ]
   },
-  {
-    "RoomName": "Salon",
-    "NFCTagAudioAssignment": [
-      {
-        "ID": "20",
-        "Duration": "00:00:30",
-        "DisplayText": "Familie von Stein#Family von Stein",
-        "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
-        //"AudioFileName": "Familie_Stein _I",
-        "AudioFileName": "Einfuehrung_Geraet"
-      },
-      {
-        "ID": "191",
-        "Duration": "00:00:30",
-        "DisplayText": "Flucht als Geächteter#Escape as an outlaw",
-        "ImageName": "Magd.png",
-        "AudioFileName": "Flucht_als_Geaechteter"
-      },
-      {
-        "ID": "201",
-        "Duration": "00:00:30",
-        "DisplayText": "Krankheit Steins#Disease Steins",
-        "ImageName": "Magd.png",
-        "AudioFileName": "Krankheit_Steins"
-      }
-    ]
-  }
+
 ]
