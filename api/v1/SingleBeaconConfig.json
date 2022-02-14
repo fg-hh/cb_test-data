@@ -12,7 +12,7 @@
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
+    "MaxDistanceInMeter": 0.8,
     "BeaconName": "FoyerBeacon_1"
   },
 
@@ -33,7 +33,7 @@
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
+    "MaxDistanceInMeter": 0.8,
     "BeaconName": "StairwayBeacon_2"
   },
 
@@ -142,13 +142,11 @@
   {
     "NumberToAudioFileName": {
       "1": {
-        //"Name": "Verlassen_Arbeitszimmer_I",
-        "Name": "Einfuehrung_Geraet",
+        "Name": "Verlassen_Arbeitszimmer_I",
         "Duration": "00:00:20"
       },
       "2": {
-        //"Name": "Verlassen_Arbeitszimmer_II",
-        "Name": "Magd1",
+        "Name": "Verlassen_Arbeitszimmer_II",
         "Duration": "00:00:20"
       },
       "3": {
@@ -181,7 +179,7 @@
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
+    "MaxDistanceInMeter": 0.8,
     "BeaconName": "RoomDoorBeacon_Office_7"
   },
 
@@ -492,7 +490,7 @@
         "Duration": "00:00:40"
       }
     },
-    "ID": "18",
+    "ID": "18x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -514,7 +512,7 @@
         "Duration": "00:00:15"
       }
     },
-    "ID": "20",
+    "ID": "20x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -531,7 +529,7 @@
         "Duration": "00:00:30"
       }
     },
-    "ID": "19",
+    "ID": "19x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
