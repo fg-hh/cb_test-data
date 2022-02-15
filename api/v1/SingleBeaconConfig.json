@@ -209,13 +209,11 @@
   {
     "NumberToAudioFileName": {
       "1": {
-        //"Name": "Verlassen_Kammer_I",
-        "Name": "Einfuehrung_Geraet",
+        "Name": "Verlassen_Kammer_I",
         "Duration": "00:00:15"
       },
       "2": {
-        //"Name": "Verlassen_Kammer_II",
-        "Name": "Magd1",
+        "Name": "Verlassen_Kammer_II",
         "Duration": "00:00:15"
       },
       "3": {
@@ -285,14 +283,11 @@
   {
     "NumberToAudioFileName": {
       "1": {
-        //"Name": "Einfuehrung_Salon_I",
-        "Name": "Begrueßung",
+        "Name": "Einfuehrung_Salon_I",
         "Duration": "00:01:30"
-        //"Duration": "00:01:40"
       },
       "2": {
-        //"Name": "Einfuehrung_Salon_II",
-        "Name": "Abschied",
+        "Name": "Einfuehrung_Salon_II",
         "Duration": "00:00:15"
       }
     },
