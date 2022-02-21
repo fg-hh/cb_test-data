@@ -3,7 +3,7 @@
   "MaxFilterRSSIValue": 70,
   "AudioFileUpdateCheckEnabled": true,
   "CheckAdditionalNFCTagsEnabled": true,
-  "UseCMSConfig": false,
+  "UseCMSConfig": true,
   "WaitingTimeBetweenAudioOfIndependendBeacon": 30,
   // Beispiel GeneralConfig.json Pfad
   "GeneralConfigPath": "https://raw.githubusercontent.com/fg-hh/cb_test-data/main/api/v1/GeneralConfig.json",
