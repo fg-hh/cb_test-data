@@ -1,7 +1,18 @@
 {
   "HeadSetPageWaitingTime": "00:00:05",
   "MaxFilterRSSIValue": 70,
-  "AudioFileUpdateCheckEnabled": false,
-  "UseCMSConfig": true,
-  "WaitingTimeBetweenAudioOfIndependendBeacon": 30
+  "AudioFileUpdateCheckEnabled": true,
+  "CheckAdditionalNFCTagsEnabled": true,
+  "UseCMSConfig": false,
+  "WaitingTimeBetweenAudioOfIndependendBeacon": 30,
+  // Beispiel GeneralConfig.json Pfad
+  "GeneralConfigPath": "https://raw.githubusercontent.com/fg-hh/cb_test-data/main/api/v1/GeneralConfig.json",
+  // Beispiel RoomExhibitConfig.json Pfad
+  "RoomExhibitConfigPath": "https://raw.githubusercontent.com/fg-hh/cb_test-data/main/api/v1/RoomExhibitConfigList.json",
+  // Beispiel SingleBeaconConfig.json Pfad
+  "SingleBeaconConfigPath": "https://raw.githubusercontent.com/fg-hh/cb_test-data/main/api/v1/SingleBeaconConfig.json",
+  // Beispiel AudioUpdate Asset-Datei
+  "AudioUpdateAssetURL": "https://raw.githubusercontent.com/fg-hh/cb_test-data/main/api/v1/assets.json",
+  // Beispiel Audio-Datei: https://github.com/fg-hh/cb_test-data/blob/main/assets/Abschied_de-DE.mp3?raw=true
+  "AssetURL": "https://github.com/fg-hh/cb_test-data/blob/main/assets/"
 }
