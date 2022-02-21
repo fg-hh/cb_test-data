@@ -1,10 +1,11 @@
-[
+﻿[
   /* Beacon 1 => Einführung Gerät */
   {
     "NumberToAudioFileName": {
       "1": {
         "Name": "Einfuehrung_Geraet",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       }
     },
     "ID": "1",
@@ -21,14 +22,16 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Begrueßung",
-        "Duration": "00:00:40"
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40"
       },
       "2": {
         "Name": "Abschied",
-        "Duration": "00:00:08"
+        "Duration_DE": "00:00:08",
+        "Duration_EN": "00:00:08"
       }
     },
-    "ID": "2",
+    "ID": "2x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -42,10 +45,11 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Wollen_Sie_gehen",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       }
     },
-    "ID": "3a",
+    "ID": "3ax",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -57,10 +61,11 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Wollen_Sie_gehen",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       }
     },
-    "ID": "4a",
+    "ID": "4ax",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -75,10 +80,11 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Magd_I",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       }
     },
-    "ID": "3",
+    "ID": "3x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -90,10 +96,11 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Magd_I",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       }
     },
-    "ID": "4",
+    "ID": "4x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -108,10 +115,11 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Magd_II",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       }
     },
-    "ID": "5",
+    "ID": "5x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -125,10 +133,11 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Magd_III",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       }
     },
-    "ID": "6",
+    "ID": "6x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -143,38 +152,46 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Verlassen_Arbeitszimmer_I",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       },
       "2": {
         "Name": "Verlassen_Arbeitszimmer_II",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       },
       "3": {
         "Name": "Verlassen_Arbeitszimmer_III",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       },
       "4": {
         "Name": "Verlassen_Arbeitszimmer_IV",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       },
       "5": {
         "Name": "Verlassen_Arbeitszimmer_V",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       },
       "6": {
         "Name": "Verlassen_Arbeitszimmer_VI",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       },
       "7": {
         "Name": "Verlassen_Arbeitszimmer_VII",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       },
       "8": {
         "Name": "Verlassen_Arbeitszimmer_VIII",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       }
     },
-    "ID": "7",
+    "ID": "7x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -188,14 +205,16 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Einfuehrung_Arbeitszimmer_I",
-        "Duration": "00:01:40"
+        "Duration_DE": "00:01:40",
+        "Duration_EN": "00:01:40"
       },
       "2": {
         "Name": "Einfuehrung_Arbeitszimmer_II",
-        "Duration": "00:00:20"
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       }
     },
-    "ID": "8",
+    "ID": "8x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -210,46 +229,56 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Verlassen_Kammer_I",
-        "Duration": "00:00:15"
+        "Duration_DE": "00:00:15",
+        "Duration_EN": "00:00:15"
       },
       "2": {
         "Name": "Verlassen_Kammer_II",
-        "Duration": "00:00:15"
+        "Duration_DE": "00:00:15",
+        "Duration_EN": "00:00:15"
       },
       "3": {
         "Name": "Verlassen_Kammer_III",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "4": {
         "Name": "Verlassen_Kammer_IV",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "5": {
         "Name": "Verlassen_Kammer_V",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "6": {
         "Name": "Verlassen_Kammer_VI",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "7": {
         "Name": "Verlassen_Kammer_VII",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "8": {
         "Name": "Verlassen_Kammer_VIII",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "9": {
         "Name": "Verlassen_Kammer_IX",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "10": {
         "Name": "Verlassen_Kammer_X",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       }
     },
-    "ID": "9",
+    "ID": "9x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -263,14 +292,16 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Einfuehrung_Kammer_I",
-        "Duration": "00:01:30"
+        "Duration_DE": "00:01:30",
+        "Duration_EN": "00:01:30"
       },
       "2": {
         "Name": "Einfuehrung_Kammer_II",
-        "Duration": "00:00:15"
+        "Duration_DE": "00:00:15",
+        "Duration_EN": "00:00:15"
       }
     },
-    "ID": "10",
+    "ID": "10x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -284,14 +315,16 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Einfuehrung_Salon_I",
-        "Duration": "00:01:30"
+        "Duration_DE": "00:01:30",
+        "Duration_EN": "00:01:30"
       },
       "2": {
         "Name": "Einfuehrung_Salon_II",
-        "Duration": "00:00:15"
+        "Duration_DE": "00:00:15",
+        "Duration_EN": "00:00:15"
       }
     },
-    "ID": "12",
+    "ID": "12x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -305,46 +338,56 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Verlassen_Salon_I",
-        "Duration": "00:00:15"
+        "Duration_DE": "00:00:15",
+        "Duration_EN": "00:00:15"
       },
       "2": {
         "Name": "Verlassen_Salon_II",
-        "Duration": "00:00:15"
+        "Duration_DE": "00:00:15",
+        "Duration_EN": "00:00:15"
       },
       "3": {
         "Name": "Verlassen_Salon_III",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "4": {
         "Name": "Verlassen_Salon_IV",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "5": {
         "Name": "Verlassen_Salon_V",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "6": {
         "Name": "Verlassen_Salon_VI",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "7": {
         "Name": "Verlassen_Salon_VII",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "8": {
         "Name": "Verlassen_Salon_VIII",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "9": {
         "Name": "Verlassen_Salon_IX",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "10": {
         "Name": "Verlassen_Salon_X",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       }
     },
-    "ID": "11",
+    "ID": "11x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -358,10 +401,11 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Zwischentext_I",
-        "Duration": "00:00:15"
+        "Duration_DE": "00:00:15",
+        "Duration_EN": "00:00:15"
       }
     },
-    "ID": "13",
+    "ID": "13x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -375,10 +419,11 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Einfuehrung_Foyer",
-        "Duration": "00:00:15"
+        "Duration_DE": "00:00:15",
+        "Duration_EN": "00:00:15"
       }
     },
-    "ID": "14",
+    "ID": "14x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -393,14 +438,16 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Einfuehrung_Bibliothek_I",
-        "Duration": "00:01:30"
+        "Duration_DE": "00:01:30",
+        "Duration_EN": "00:01:30"
       },
       "2": {
         "Name": "Einfuehrung_Bibliothek_II",
-        "Duration": "00:00:15"
+        "Duration_DE": "00:00:15",
+        "Duration_EN": "00:00:15"
       }
     },
-    "ID": "16",
+    "ID": "16x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -414,38 +461,46 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Verlassen_Bibliothek_I",
-        "Duration": "00:00:15"
+        "Duration_DE": "00:00:15",
+        "Duration_EN": "00:00:15"
       },
       "2": {
         "Name": "Verlassen_Bibliothek_II",
-        "Duration": "00:00:15"
+        "Duration_DE": "00:00:15",
+        "Duration_EN": "00:00:15"
       },
       "3": {
         "Name": "Verlassen_Bibliothek_III",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "4": {
         "Name": "Verlassen_Bibliothek_IV",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "5": {
         "Name": "Verlassen_Bibliothek_V",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "6": {
         "Name": "Verlassen_Bibliothek_VI",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "7": {
         "Name": "Verlassen_Bibliothek_VII",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       },
       "8": {
         "Name": "Verlassen_Bibliothek_VIII",
-        "Duration": "00:00:05"
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       }
     },
-    "ID": "15",
+    "ID": "15x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -459,14 +514,16 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Begrueßung",
-        "Duration": "00:00:40"
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40"
       },
       "2": {
         "Name": "Abschied",
-        "Duration": "00:00:08"
+        "Duration_DE": "00:00:08",
+        "Duration_EN": "00:00:08"
       }
     },
-    "ID": "17",
+    "ID": "17x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -480,10 +537,11 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Einführung_Galerie_Ost",
-        "Duration": "00:00:40"
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40"
       }
     },
-    "ID": "18",
+    "ID": "18x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -498,14 +556,16 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Einführung-Steinsaal_I",
-        "Duration": "00:01:30"
+        "Duration_DE": "00:01:30",
+        "Duration_EN": "00:01:30"
       },
       "2": {
         "Name": "Einführung-Steinsaal_II",
-        "Duration": "00:00:15"
+        "Duration_DE": "00:00:15",
+        "Duration_EN": "00:00:15"
       }
     },
-    "ID": "20",
+    "ID": "20x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -519,10 +579,11 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Verlassen_Steinsaal",
-        "Duration": "00:00:30"
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30"
       }
     },
-    "ID": "19",
+    "ID": "19x",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",

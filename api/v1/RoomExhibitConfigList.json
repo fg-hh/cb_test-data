@@ -4,8 +4,10 @@
     "NFCTagAudioAssignment": [
       {
         "ID": "2",
-        "Duration": "00:00:40",
-        "DisplayText": "Stifterbild aus Scheda#Founder picture from Scheda",
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40",
+        "DisplayText_DE": "Stifterbild aus Scheda",
+        "DisplayText_EN": "Founder picture from Scheda",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Scheda"
       }
@@ -16,36 +18,46 @@
     "NFCTagAudioAssignment": [
       {
         "ID": "3",
-        "Duration": "00:00:40",
-        "DisplayText": "Herkunft der Familie vom und zum Stein#Origin of the family vom und zum Stein",
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40",
+        "DisplayText_DE": "Herkunft der Familie vom und zum Stein",
+        "DisplayText_EN": "Origin of the family vom und zum Stein",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Namen_Herkunft"
       },
       {
         "ID": "4",
-        "Duration": "00:00:40",
-        "DisplayText": "Wappenkalender der rheinischen Reichsritterschaft, Mainz 1776#Heraldic Calendar of the Rhenish Imperial Knighthood, Mainz 1776",
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40",
+        "DisplayText_DE": "Wappenkalender der rheinischen Reichsritterschaft, Mainz 1776",
+        "DisplayText_EN": "Heraldic Calendar of the Rhenish Imperial Knighthood, Mainz 1776",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Stand_der_Familie"
       },
       {
         "ID": "5",
-        "Duration": "00:00:40",
-        "DisplayText": "Familienportraits#Family portraits",
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40",
+        "DisplayText_DE": "Familienportraits",
+        "DisplayText_EN": "Family portraits",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Erziehung_Jugend"
       },
       {
         "ID": "6",
-        "Duration": "00:00:40",
-        "DisplayText": "Studium in Göttingen (1773 - 1777)#Studies in Göttingen (1773 - 1777)",
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40",
+        "DisplayText_DE": "Studium in Göttingen (1773 - 1777)",
+        "DisplayText_EN": "Studies in Göttingen (1773 - 1777)",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Studium"
       },
       {
         "ID": "7",
-        "Duration": "00:00:40",
-        "DisplayText": "Christus im Garten Gethsemane, 1786, Johann Christoph Rincklake#Christ in the Garden of Gethsemane, 1786, Johann Christoph Rincklake",
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40",
+        "DisplayText_DE": "Christus im Garten Gethsemane, 1786, Johann Christoph Rincklake",
+        "DisplayText_EN": "Christ in the Garden of Gethsemane, 1786, Johann Christoph Rincklake",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Gottvertrauen"
       }
@@ -56,71 +68,91 @@
     "NFCTagAudioAssignment": [
       {
         "ID": "8",
-        "Duration": "00:01:40",
-        "DisplayText": "1780: Eintritt in den preußischen Staatsdienst#1780: Entry into the Prussian civil service",
+        "Duration_DE": "00:01:40",
+        "Duration_EN": "00:01:40",
+        "DisplayText_DE": "1780: Eintritt in den preußischen Staatsdienst",
+        "DisplayText_EN": "1780: Entry into the Prussian civil service",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Steins_Überzeugung"
       },
       {
         "ID": "9",
-        "Duration": "00:00:40",
-        "DisplayText": "1784: Freiherr vom Stein wird Oberbergrat#1784: Baron vom Stein becomes chief burgrave",
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40",
+        "DisplayText_DE": "1784: Freiherr vom Stein wird Oberbergrat",
+        "DisplayText_EN": "1784: Baron vom Stein becomes chief burgrave",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Oberbergrat_Stein"
       },
       {
         "ID": "10",
-        "Duration": "00:00:40",
-        "DisplayText": "1796: Oberkammerpräsident mit Dienstsitz in Minden#1796: President of the upper chamber with official residence in Minden",
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40",
+        "DisplayText_DE": "1796: Oberkammerpräsident mit Dienstsitz in Minden",
+        "DisplayText_EN": "1796: President of the upper chamber with official residence in Minden",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Dienstsitz_Minden"
       },
       {
         "ID": "11",
-        "Duration": "00:00:40",
-        "DisplayText": "Industriespionage in England#Industrial espionage in England",
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40",
+        "DisplayText_DE": "Industriespionage in England",
+        "DisplayText_EN": "Industrial espionage in England",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Stein_will_Fortschritt"
       },
       {
         "ID": "12",
-        "Duration": "00:01:40",
-        "DisplayText": "1802: Säkularisation der Bischofssitze in Westfalen#1802: Secularization of the bishoprics in Westphalia",
+        "Duration_DE": "00:01:40",
+        "Duration_EN": "00:01:40",
+        "DisplayText_DE": "1802: Säkularisation der Bischofssitze in Westfalen",
+        "DisplayText_EN": "1802: Secularization of the bishoprics in Westphalia",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Säkularisierung"
       },
       {
         "ID": "13",
-        "Duration": "00:00:40",
-        "DisplayText": "1806: Modernisierung des Finanzsystems#1806: Modernisation of the financial system",
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40",
+        "DisplayText_DE": "1806: Modernisierung des Finanzsystems",
+        "DisplayText_EN": "1806: Modernisation of the financial system",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Stein_Finanzsystem"
       },
       {
         "ID": "14",
-        "Duration": "00:00:40",
-        "DisplayText": "1806: Widerstand gegen die Kabinettsräte des Königs#1806: Resistance to the King's cabinet councils",
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40",
+        "DisplayText_DE": "1806: Widerstand gegen die Kabinettsräte des Königs",
+        "DisplayText_EN": "1806: Resistance to the King's cabinet councils",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Kabinetsräte"
       },
       {
         "ID": "15",
-        "Duration": "00:00:40",
-        "DisplayText": "1807: Rücktritt als Finanzminister#1807: Resignation as Minister of Finance",
+        "Duration_DE": "00:00:40",
+        "Duration_EN": "00:00:40",
+        "DisplayText_DE": "1807: Rücktritt als Finanzminister",
+        "DisplayText_EN": "1807: Resignation as Minister of Finance",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Entlassung_als_Finanzminister"
       },
       {
         "ID": "16",
-        "Duration": "00:01:40",
-        "DisplayText": "1807: Die Nassauer Denkschrift#1807: The Nassau Memorandum",
+        "Duration_DE": "00:01:40",
+        "Duration_EN": "00:01:40",
+        "DisplayText_DE": "1807: Die Nassauer Denkschrift",
+        "DisplayText_EN": "1807: The Nassau Memorandum",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Nassauer_Denkschrift"
       },
       {
         "ID": "17",
-        "Duration": "00:01:40",
-        "DisplayText": "1807: Preußische Reformen#1807: Prussian reforms",
+        "Duration_DE": "00:01:40",
+        "Duration_EN": "00:01:40",
+        "DisplayText_DE": "1807: Preußische Reformen",
+        "DisplayText_EN": "1807: Prussian reforms",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Bauernbefreiung"
       }
@@ -131,22 +163,28 @@
     "NFCTagAudioAssignment": [
       {
         "ID": "18",
-        "Duration": "00:00:30",
-        "DisplayText": "1808: Flucht vor Napoleon#1808: Escape from Napoleon",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "1808: Flucht vor Napoleon",
+        "DisplayText_EN": "1808: Escape from Napoleon",
         "ImageName": "Magd.png",
         "AudioFileName": "Napolen"
       },
       {
         "ID": "19",
-        "Duration": "00:00:30",
-        "DisplayText": "1809: Exil in Prag#1809: Exile in Prague",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "1809: Exil in Prag",
+        "DisplayText_EN": "1809: Exile in Prague",
         "ImageName": "Magd.png",
         "AudioFileName": "Flucht_als_Geaechteter"
       },
       {
         "ID": "20",
-        "Duration": "00:00:30",
-        "DisplayText": "Reisesessel des Freiherrn vom Stein, Original, um 1813/20#Baron vom Stein's travelling chair, original, c. 1813/20",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Reisesessel des Freiherrn vom Stein, Original, um 1813/20",
+        "DisplayText_EN": "Baron vom Stein's travelling chair, original, c. 1813/20",
         "ImageName": "Magd.png",
         "AudioFileName": "Krankheit_Steins"
       }
@@ -158,71 +196,91 @@
     "NFCTagAudioAssignment": [
       {
         "ID": "21",
-        "Duration": "00:00:30",
-        "DisplayText": "Wissenswertes über die Familie#Things to know about the family",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Wissenswertes über die Familie",
+        "DisplayText_EN": "Things to know about the family",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Familie_Stein_I"
       },
       {
         "ID": "21Yes",
-        "Duration": "00:00:30",
-        "DisplayText": "Wissenswertes über die Familie#Things to know about the family",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Wissenswertes über die Familie",
+        "DisplayText_EN": "Things to know about the family",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Familie_Stein_II"
       },
       {
         "ID": "22",
-        "Duration": "00:00:30",
-        "DisplayText": "Aktuelle Politik in Westfalen#Current politics in Westphalia",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Aktuelle Politik in Westfalen",
+        "DisplayText_EN": "Current politics in Westphalia",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Politik_Westphalen_I"
       },
       {
         "ID": "22Yes",
-        "Duration": "00:00:30",
-        "DisplayText": "Aktuelle Politik in Westfalen#Current politics in Westphalia",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Aktuelle Politik in Westfalen",
+        "DisplayText_EN": "Current politics in Westphalia",
         "ImageName": "Magd.png",
         "AudioFileName": "Politik_Westphalen_II"
       },
       {
         "ID": "23",
-        "Duration": "00:00:30",
-        "DisplayText": "Neues aus der Welt#News from the world",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Neues aus der Welt",
+        "DisplayText_EN": "News from the world",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Weltpolitik_I"
       },
       {
         "ID": "23Yes",
-        "Duration": "00:00:30",
-        "DisplayText": "Neues aus der Welt#News from the world",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Neues aus der Welt",
+        "DisplayText_EN": "News from the world",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Weltpolitik_II"
       },
       {
         "ID": "24",
-        "Duration": "00:00:30",
-        "DisplayText": "Kunst und Kultur#Art and culture",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Kunst und Kultur",
+        "DisplayText_EN": "Art and culture",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Bidermeier_Vormaerz_I"
       },
       {
         "ID": "24Yes",
-        "Duration": "00:00:30",
-        "DisplayText": "Kunst und Kultur#Art and culture",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Kunst und Kultur",
+        "DisplayText_EN": "Art and culture",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Bidermeier_Vormaerz_II"
       },
       {
         "ID": "25",
-        "Duration": "00:00:30",
-        "DisplayText": "1812: Berater des russischen Zaren#1812: Advisor to the Russian tsar",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "1812: Berater des russischen Zaren",
+        "DisplayText_EN": "1812: Advisor to the Russian tsar",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Stein_in_russischen_Diensten"
       },
       {
         "ID": "26",
-        "Duration": "00:00:30",
-        "DisplayText": "1814/15: Wiener Kongress#1814/15: Congress of Vienna",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "1814/15: Wiener Kongress",
+        "DisplayText_EN": "1814/15: Congress of Vienna",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Wiener_Kongress"
       }
@@ -234,29 +292,37 @@
     "NFCTagAudioAssignment": [
       {
         "ID": "27",
-        "Duration": "00:00:30",
-        "DisplayText": "Mittelalterforschung#Medieval Studies",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Mittelalterforschung",
+        "DisplayText_EN": "Medieval Studies",
         "ImageName": "Bild_von_Stein.png",
         "AudioFileName": "Marienburg_Mittelalterforschung"
       },
       {
         "ID": "28",
-        "Duration": "00:00:30",
-        "DisplayText": "Weggefährten#Companions",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Weggefährten",
+        "DisplayText_EN": "Companions",
         "ImageName": "Bild_von_Stein.png",
         "AudioFileName": "Brief_Korrespondenzen"
       },
       {
         "ID": "29",
-        "Duration": "00:00:30",
-        "DisplayText": "Möbel und Aktentasche#Furniture and briefcase",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Möbel und Aktentasche",
+        "DisplayText_EN": "Furniture and briefcase",
         "ImageName": "Bild_von_Stein.png",
         "AudioFileName": "Steins_Aktentasche"
       },
       {
         "ID": "30",
-        "Duration": "00:00:30",
-        "DisplayText": "Landtag Westfalen#Landtag Westphalia",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Landtag Westfalen",
+        "DisplayText_EN": "Landtag Westphalia",
         "ImageName": "Bild_von_Stein.png",
         "AudioFileName": "Landtag-Westfalen"
       }
@@ -269,43 +335,55 @@
       {
         "ID": "31",
         "AudioFileName": "Plaene_Cappenbergs",
-        "Duration": "00:00:30",
-        "DisplayText": "Pläne Cappenbergs#Plans Cappenberg",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Pläne Cappenbergs",
+        "DisplayText_EN": "Plans Cappenberg",
         "ImageName": "DinerJohann.png"
       },
       {
         "ID": "32",
         "AudioFileName": "Stein_Büste_aus_Walhalla",
-        "Duration": "00:00:30",
-        "DisplayText": "Stein-Büste aus der Walhalla#Stone bust from Valhalla",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Stein-Büste aus der Walhalla",
+        "DisplayText_EN": "Stone bust from Valhalla",
         "ImageName": "DinerJohann.png"
       },
       {
         "ID": "33",
         "AudioFileName": "Naturalienschrank",
-        "Duration": "00:00:30",
-        "DisplayText": "Naturalienschrank#Naturalien cabinet",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Naturalienschrank",
+        "DisplayText_EN": "Naturalien cabinet",
         "ImageName": "DinerJohann.png"
       },
       {
         "ID": "34",
         "AudioFileName": "Exponat_4",
-        "Duration": "00:00:30",
-        "DisplayText": "Exponat 4#Exponat 4",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Exponat 4",
+        "DisplayText_EN": "Exponat 4",
         "ImageName": "DinerJohann.png"
       },
       {
         "ID": "35",
         "AudioFileName": "Exponat_5",
-        "Duration": "00:00:30",
-        "DisplayText": "Exponat 5#Exponat 5",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Exponat 5",
+        "DisplayText_EN": "Exponat 5",
         "ImageName": "DinerJohann.png"
       },
       {
         "ID": "36",
         "AudioFileName": "Exponat_6",
-        "Duration": "00:00:30",
-        "DisplayText": "Exponat 6#Exponat 6",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Exponat 6",
+        "DisplayText_EN": "Exponat 6",
         "ImageName": "DinerJohann.png"
       }
     ]
@@ -316,15 +394,19 @@
     "NFCTagAudioAssignment": [
       {
         "ID": "37",
-        "Duration": "00:00:30",
-        "DisplayText": "Gemälde Tod Barbarossas#Painting Death of Barbarossa",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Gemälde Tod Barbarossas",
+        "DisplayText_EN": "Painting Death of Barbarossa",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Tod_Barbarossas"
       },
       {
         "ID": "38",
-        "Duration": "00:00:30",
-        "DisplayText": "Text Saal neu#Text Sall New",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Text Saal neu",
+        "DisplayText_EN": "Text Sall New",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Abschied"
       }
