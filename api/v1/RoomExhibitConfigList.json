@@ -89,13 +89,13 @@
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Säkularisierung"
       },
-      //{
-      //  "ID": "13",
-      //  "Duration": "00:00:40",
-      //  "DisplayText": "1806: Modernisierung des Finanzsystems#1806: Modernisation of the financial system",
-      //  "ImageName": "DinerJohann.png",
-      //  "AudioFileName": "Stein_Finanzsystem"
-      //},
+      {
+        "ID": "13",
+        "Duration": "00:00:40",
+        "DisplayText": "1806: Modernisierung des Finanzsystems#1806: Modernisation of the financial system",
+        "ImageName": "DinerJohann.png",
+        "AudioFileName": "Stein_Finanzsystem"
+      },
       {
         "ID": "14",
         "Duration": "00:00:40",
@@ -322,7 +322,7 @@
         "AudioFileName": "Tod_Barbarossas"
       },
       {
-        "ID": "13",
+        "ID": "38",
         "Duration": "00:00:30",
         "DisplayText": "Text Saal neu#Text Sall New",
         "ImageName": "DinerJohann.png",
