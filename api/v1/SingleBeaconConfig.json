@@ -147,7 +147,7 @@
   },
 
 
-  /* Beacon 7 => Verlassen Arbeitszimmer mit 8 Versionen  */
+  /* Beacon 7 => Verlassen Arbeitszimmer mit 9 Versionen  */
   {
     "NumberToAudioFileName": {
       "1": {
@@ -229,7 +229,7 @@
   },
 
 
-  /* Beacon 9 => Verlassen Kammer mit 10 Versionen  */
+  /* Beacon 9 => Verlassen Kammer mit 11 Versionen  */
   {
     "NumberToAudioFileName": {
       "1": {
@@ -343,7 +343,7 @@
     "BeaconName": "RoomInsideBeacon_Salon_12"
   },
 
-  /* Beacon 11 => Verlassen Salon mit 10 Versionen  */
+  /* Beacon 11 => Verlassen Salon mit 11 Versionen  */
   {
     "NumberToAudioFileName": {
       "1": {
@@ -471,7 +471,7 @@
     "BeaconName": "RoomInsideBeacon_Library_16"
   },
 
-  /* Beacon 15 => Verlassen Bibliothek mit 8 Versionen  */
+  /* Beacon 15 => Verlassen Bibliothek mit 9 Versionen  */
   {
     "NumberToAudioFileName": {
       "1": {
@@ -594,7 +594,7 @@
     "BeaconName": "RoomInsideBeacon_Steinsaal_20"
   },
 
-  /* Beacon 19 => Verlassen Steinsaal mit 1 Version  */
+  /* Beacon 19 => Verlassen Steinsaal mit 2 Version  */
   {
     "NumberToAudioFileName": {
       "1": {
