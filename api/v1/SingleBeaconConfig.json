@@ -189,6 +189,11 @@
         "Name": "Verlassen_Arbeitszimmer_VIII",
         "Duration_DE": "00:00:20",
         "Duration_EN": "00:00:20"
+      },
+      "9": {
+        "Name": "Verlassen_Arbeitszimmer_IX",
+        "Duration_DE": "00:00:20",
+        "Duration_EN": "00:00:20"
       }
     },
     "ID": "7",
@@ -274,6 +279,11 @@
       },
       "10": {
         "Name": "Verlassen_Kammer_X",
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
+      },
+      "11": {
+        "Name": "Verlassen_Kammer_XI",
         "Duration_DE": "00:00:05",
         "Duration_EN": "00:00:05"
       }
@@ -383,6 +393,11 @@
       },
       "10": {
         "Name": "Verlassen_Salon_X",
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
+      },
+      "11": {
+        "Name": "Verlassen_Salon_XI",
         "Duration_DE": "00:00:05",
         "Duration_EN": "00:00:05"
       }
@@ -498,6 +513,11 @@
         "Name": "Verlassen_Bibliothek_VIII",
         "Duration_DE": "00:00:05",
         "Duration_EN": "00:00:05"
+      },
+      "9": {
+        "Name": "Verlassen_Bibliothek_IX",
+        "Duration_DE": "00:00:05",
+        "Duration_EN": "00:00:05"
       }
     },
     "ID": "15",
@@ -579,6 +599,11 @@
     "NumberToAudioFileName": {
       "1": {
         "Name": "Verlassen_Steinsaal",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30"
+      },
+      "2": {
+        "Name": "Verlassen_Steinsaal_II",
         "Duration_DE": "00:00:30",
         "Duration_EN": "00:00:30"
       }
