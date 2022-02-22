@@ -1,4 +1,4 @@
-﻿[
+[
   /* Beacon 1 => Einführung Gerät */
   {
     "NumberToAudioFileName": {
@@ -31,7 +31,7 @@
         "Duration_EN": "00:00:08"
       }
     },
-    "ID": "2x",
+    "ID": "2",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -49,7 +49,7 @@
         "Duration_EN": "00:00:20"
       }
     },
-    "ID": "3ax",
+    "ID": "21",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -65,7 +65,7 @@
         "Duration_EN": "00:00:20"
       }
     },
-    "ID": "4ax",
+    "ID": "22",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -84,7 +84,7 @@
         "Duration_EN": "00:00:20"
       }
     },
-    "ID": "3x",
+    "ID": "3",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -100,7 +100,7 @@
         "Duration_EN": "00:00:20"
       }
     },
-    "ID": "4x",
+    "ID": "4",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -119,7 +119,7 @@
         "Duration_EN": "00:00:20"
       }
     },
-    "ID": "5x",
+    "ID": "5",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -137,7 +137,7 @@
         "Duration_EN": "00:00:20"
       }
     },
-    "ID": "6x",
+    "ID": "6",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -191,7 +191,7 @@
         "Duration_EN": "00:00:20"
       }
     },
-    "ID": "7x",
+    "ID": "7",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -214,7 +214,7 @@
         "Duration_EN": "00:00:20"
       }
     },
-    "ID": "8x",
+    "ID": "8",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -278,7 +278,7 @@
         "Duration_EN": "00:00:05"
       }
     },
-    "ID": "9x",
+    "ID": "9",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -301,7 +301,7 @@
         "Duration_EN": "00:00:15"
       }
     },
-    "ID": "10x",
+    "ID": "10",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -324,7 +324,7 @@
         "Duration_EN": "00:00:15"
       }
     },
-    "ID": "12x",
+    "ID": "12",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -387,7 +387,7 @@
         "Duration_EN": "00:00:05"
       }
     },
-    "ID": "11x",
+    "ID": "11",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -405,7 +405,7 @@
         "Duration_EN": "00:00:15"
       }
     },
-    "ID": "13x",
+    "ID": "13",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -423,7 +423,7 @@
         "Duration_EN": "00:00:15"
       }
     },
-    "ID": "14x",
+    "ID": "14",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -447,7 +447,7 @@
         "Duration_EN": "00:00:15"
       }
     },
-    "ID": "16x",
+    "ID": "16",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -500,7 +500,7 @@
         "Duration_EN": "00:00:05"
       }
     },
-    "ID": "15x",
+    "ID": "15",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -523,7 +523,7 @@
         "Duration_EN": "00:00:08"
       }
     },
-    "ID": "17x",
+    "ID": "17",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -541,7 +541,7 @@
         "Duration_EN": "00:00:40"
       }
     },
-    "ID": "18x",
+    "ID": "18",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -565,7 +565,7 @@
         "Duration_EN": "00:00:15"
       }
     },
-    "ID": "20x",
+    "ID": "20",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
@@ -583,7 +583,7 @@
         "Duration_EN": "00:00:30"
       }
     },
-    "ID": "19x",
+    "ID": "19",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
