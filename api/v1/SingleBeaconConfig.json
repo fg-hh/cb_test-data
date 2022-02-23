@@ -601,11 +601,6 @@
         "Name": "Verlassen_Steinsaal",
         "Duration_DE": "00:00:30",
         "Duration_EN": "00:00:30"
-      },
-      "2": {
-        "Name": "Verlassen_Steinsaal_II",
-        "Duration_DE": "00:00:30",
-        "Duration_EN": "00:00:30"
       }
     },
     "ID": "19",
