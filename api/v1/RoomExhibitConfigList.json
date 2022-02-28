@@ -325,6 +325,15 @@
         "DisplayText_EN": "Landtag Westphalia",
         "ImageName": "Bild_von_Stein.png",
         "AudioFileName": "Landtag-Westfalen"
+      },
+      {
+        "ID": "38",
+        "Duration_DE": "00:00:30",
+        "Duration_EN": "00:00:30",
+        "DisplayText_DE": "Schreibschrank und Schreibkommode, um 1820/30",
+        "DisplayText_EN": "Writing Cabinet and Writing Commode, c. 1820/30",
+        "ImageName": "Bild_von_Stein.png",
+        "AudioFileName": "Neugotische_Moebel"
       }
     ]
   },
@@ -402,7 +411,7 @@
         "AudioFileName": "Tod_Barbarossas"
       },
       {
-        "ID": "38",
+        "ID": "39",
         "Duration_DE": "00:00:30",
         "Duration_EN": "00:00:30",
         "DisplayText_DE": "Text Saal neu",
