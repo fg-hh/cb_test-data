@@ -370,23 +370,22 @@
       },
       {
         "ID": "34",
-        "AudioFileName": "Exponat_4",
+        "AudioFileName": "Norbert",
         "Duration_DE": "00:00:30",
         "Duration_EN": "00:00:30",
-        "DisplayText_DE": "Exponat 4",
-        "DisplayText_EN": "Exponat 4",
+        "DisplayText_DE": "Heiliger Norbert, um 1750",
+        "DisplayText_EN": "St. Norbert, around 1750",
         "ImageName": "DinerJohann.png"
       },
       {
         "ID": "35",
-        "AudioFileName": "Exponat_5",
+        "AudioFileName": "Brustbild",
         "Duration_DE": "00:00:30",
         "Duration_EN": "00:00:30",
-        "DisplayText_DE": "Exponat 5",
-        "DisplayText_EN": "Exponat 5",
+        "DisplayText_DE": "Brustbild Adolph von der Lippe, um 1755/60",
+        "DisplayText_EN": "Half-length portrait of Adolph von der Lippe, c. 1755/60",
         "ImageName": "DinerJohann.png"
-      },
-      {
+      },      {
         "ID": "36",
         "AudioFileName": "Exponat_6",
         "Duration_DE": "00:00:30",
