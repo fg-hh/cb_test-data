@@ -9,11 +9,11 @@
   //"GeneralConfigPath": "https://raw.githubusercontent.com/fg-hh/cb_data/main/GeneralConfig.json",
   "GeneralConfigPath": "http://cappenberg.nordleu.de/api/v1/GeneralConfig.json",
   // Beispiel RoomExhibitConfig.json Pfad
-  //"RoomExhibitConfigPath": "https://raw.githubusercontent.com/fg-hh/cb_test-data/main/api/v1/RoomExhibitConfigList.json",
-  "RoomExhibitConfigPath": "http://cappenberg.nordleu.de/api/v1/RoomExhibitConfigList.json",
+  "RoomExhibitConfigPath": "https://raw.githubusercontent.com/fg-hh/cb_test-data/main/api/v1/RoomExhibitConfigList.json",
+  //"RoomExhibitConfigPath": "http://cappenberg.nordleu.de/api/v1/RoomExhibitConfigList.json",
   // Beispiel SingleBeaconConfig.json Pfad
-  //"SingleBeaconConfigPath": "https://raw.githubusercontent.com/fg-hh/cb_test-data/main/api/v1/SingleBeaconConfig.json",
-  "SingleBeaconConfigPath": "http://cappenberg.nordleu.de/api/v1/SingleBeaconConfig.json",
+  "SingleBeaconConfigPath": "https://raw.githubusercontent.com/fg-hh/cb_test-data/main/api/v1/SingleBeaconConfig.json",
+  //"SingleBeaconConfigPath": "http://cappenberg.nordleu.de/api/v1/SingleBeaconConfig.json",
   // Beispiel AudioUpdate Asset-Datei  "AudioUpdateAssetURL": "https://raw.githubusercontent.com/fg-hh/cb_test-data/main/api/v1/assets.json",
   // Beispiel Audio-Datei: https://github.com/fg-hh/cb_test-data/blob/main/assets/Abschied_de-DE.mp3?raw=true
   "AssetURL": "https://github.com/fg-hh/cb_test-data/blob/main/assets/"
