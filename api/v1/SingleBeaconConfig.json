@@ -21,7 +21,7 @@
   {
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Begrueßung",
+        "Name": "Begruessung",
         "Duration_de-DE": "00:00:40",
         "Duration_en-GB": "00:00:40"
       },
@@ -533,7 +533,7 @@
   {
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Begrueßung",
+        "Name": "Begruessung",
         "Duration_de-DE": "00:00:40",
         "Duration_en-GB": "00:00:40"
       },
@@ -556,7 +556,7 @@
   {
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Einführung_Galerie_Ost",
+        "Name": "Einfuehrung_Galerie_Ost",
         "Duration_de-DE": "00:00:40",
         "Duration_en-GB": "00:00:40"
       }
@@ -575,12 +575,12 @@
   {
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Einführung-Steinsaal_I",
+        "Name": "Einfuehrung-Steinsaal_I",
         "Duration_de-DE": "00:01:30",
         "Duration_en-GB": "00:01:30"
       },
       "2": {
-        "Name": "Einführung-Steinsaal_II",
+        "Name": "Einfuehrung-Steinsaal_II",
         "Duration_de-DE": "00:00:15",
         "Duration_en-GB": "00:00:15"
       }

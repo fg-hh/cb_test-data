@@ -1,7 +1,7 @@
 {
   "head": {
     "assets_total": 130,
-    "updated_at": "2025-02-01T14:50:56.519Z"
+    "updated_at": "2021-02-01T14:50:56.519Z"
   },
   "assets": [
     {
@@ -13,8 +13,8 @@
       "updated_at": "2022-02-01T14:50:56.519Z"
     },
     {
-      "filename": "Begrueßung_de-DE.mp3",
-      "updated_at": "2025-02-01T14:50:56.519Z"
+      "filename": "Begruessung_de-DE.mp3",
+      "updated_at": "2021-02-01T14:50:56.519Z"
     },
     {
       "filename": "Begrueßung_en-GB.mp3",
@@ -22,11 +22,11 @@
     },
     {
       "filename": "Abschied_de-DE.mp3",
-      "updated_at": "2025-02-01T14:50:56.519Z"
+      "updated_at": "2021-02-01T14:50:56.519Z"
     },
     {
       "filename": "Abschied_en-GB.mp3",
-      "updated_at": "2025-02-01T14:50:56.519Z"
+      "updated_at": "2021-02-01T14:50:56.519Z"
     },
     {
       "filename": "Scheda_de-DE.mp3",
@@ -46,7 +46,7 @@
     },
     {
       "filename": "Magd_I_de-DE.mp3",
-      "updated_at": "2025-02-01T14:50:56.519Z"
+      "updated_at": "2021-02-01T14:50:56.519Z"
     },
     {
       "filename": "Magd_I_en-GB.mp3",
@@ -173,11 +173,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z"
     },
     {
-      "filename": "Steins_Überzeugung_de-DE.mp3",
+      "filename": "Steins_Ueberzeugung_de-DE.mp3",
       "updated_at": "2022-02-01T14:50:56.519Z"
     },
     {
-      "filename": "Steins_Überzeugung_en-GB.mp3",
+      "filename": "Steins_Ueberzeugung_en-GB.mp3",
       "updated_at": "2022-02-01T14:50:56.519Z"
     },
     {
@@ -205,11 +205,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z"
     },
     {
-      "filename": "Säkularisierung_de-DE.mp3",
+      "filename": "Saekularisierung_de-DE.mp3",
       "updated_at": "2022-02-01T14:50:56.519Z"
     },
     {
-      "filename": "Säkularisierung_en-GB.mp3",
+      "filename": "Saekularisierung_en-GB.mp3",
       "updated_at": "2022-02-01T14:50:56.519Z"
     },
     {
@@ -221,11 +221,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z"
     },
     {
-      "filename": "Kabinetsräte_de-DE.mp3",
+      "filename": "Kabinetsraete_de-DE.mp3",
       "updated_at": "2022-02-01T14:50:56.519Z"
     },
     {
-      "filename": "Kabinetsräte_en-GB.mp3",
+      "filename": "Kabinetsraete_en-GB.mp3",
       "updated_at": "2022-02-01T14:50:56.519Z"
     },
     {
@@ -517,11 +517,11 @@
       "updated_at": "2022-02-01T14:50:56.519Z"
     },
     {
-      "filename": "Begrueßung_de-DE.mp3",
-      "updated_at": "2025-02-01T14:50:56.519Z"
+      "filename": "Begruessung_de-DE.mp3",
+      "updated_at": "2021-02-01T14:50:56.519Z"
     },
     {
-      "filename": "Begrueßung_en-GB.mp3",
+      "filename": "Begruessung_en-GB.mp3",
       "updated_at": "2022-02-01T14:50:56.519Z"
     }
   ]

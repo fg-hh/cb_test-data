@@ -73,7 +73,7 @@
         "DisplayText_de-DE": "1780: Eintritt in den preußischen Staatsdienst",
         "DisplayText_en-GB": "1780: Entry into the Prussian civil service",
         "ImageName": "DinerJohann.png",
-        "AudioFileName": "Steins_Überzeugung"
+        "AudioFileName": "Steins_Ueberzeugung"
       },
       {
         "ID": "9",
@@ -109,7 +109,7 @@
         "DisplayText_de-DE": "1802: Säkularisation der Bischofssitze in Westfalen",
         "DisplayText_en-GB": "1802: Secularization of the bishoprics in Westphalia",
         "ImageName": "DinerJohann.png",
-        "AudioFileName": "Säkularisierung"
+        "AudioFileName": "Saekularisierung"
       },
       {
         "ID": "13",
@@ -127,7 +127,7 @@
         "DisplayText_de-DE": "1806: Widerstand gegen die Kabinettsräte des Königs",
         "DisplayText_en-GB": "1806: Resistance to the King's cabinet councils",
         "ImageName": "DinerJohann.png",
-        "AudioFileName": "Kabinetsräte"
+        "AudioFileName": "Kabinetsraete"
       },
       {
         "ID": "15",
@@ -343,7 +343,7 @@
       },
       {
         "ID": "32",
-        "AudioFileName": "Stein_Büste_aus_Walhalla",
+        "AudioFileName": "Stein_Bueste_aus_Walhalla",
         "Duration_de-DE": "00:00:30",
         "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Stein-Büste aus der Walhalla",
