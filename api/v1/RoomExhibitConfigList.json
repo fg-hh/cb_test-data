@@ -321,6 +321,15 @@
         "ID": "30",
         "Duration_de-DE": "00:00:30",
         "Duration_en-GB": "00:00:30",
+        "DisplayText_de-DE": "1826: 1. Westfälischer Provinziallandtag",
+        "DisplayText_en-GB": "1826: 1st State Parliament of the Province of Westphalia",
+        "ImageName": "Bild_von_Stein.png",
+        "AudioFileName": "Landtag-Westfalen"
+      },
+      {
+        "ID": "38",
+        "Duration_de-DE": "00:00:30",
+        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Schreibschrank und Schreibkommode, um 1820/30",
         "DisplayText_en-GB": "Writing Cabinet and Writing Commode, c. 1820/30",
         "ImageName": "Bild_von_Stein.png",
@@ -400,15 +409,6 @@
         "DisplayText_en-GB": "Painting Death of Barbarossa",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Tod_Barbarossas"
-      },
-      {
-        "ID": "39",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
-        "DisplayText_de-DE": "Text Saal neu",
-        "DisplayText_en-GB": "Text Sall New",
-        "ImageName": "DinerJohann.png",
-        "AudioFileName": "Abschied"
       }
     ]
   }
