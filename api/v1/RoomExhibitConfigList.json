@@ -227,7 +227,7 @@
         "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Aktuelle Politik in Westfalen",
         "DisplayText_en-GB": "Current politics in Westphalia",
-        "ImageName": "Magd.png",
+        "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Politik_Westphalen_II"
       },
       {
@@ -318,7 +318,7 @@
         "AudioFileName": "Steins_Aktentasche"
       },
       {
-        "ID": "38",
+        "ID": "30",
         "Duration_de-DE": "00:00:30",
         "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Schreibschrank und Schreibkommode, um 1820/30",
