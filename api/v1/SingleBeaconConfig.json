@@ -1,614 +1,828 @@
-[
-  /* Beacon 1 => Einführung Gerät */
-  {
-    "NumberToAudioFileName": {
-      "1": {
-        "Name": "Einfuehrung_Geraet",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
-      }
-    },
+[{
     "ID": "1",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 0.8,
-    "BeaconName": "FoyerBeacon_1"
-  },
-
-  /* Beacon 2 => Willkommen auf Cappenberg Treppenhaus  */
-  {
+    "MaxDistanceInMeter": "0.8",
+    "BeaconName": "FoyerBeacon_1",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Begruessung",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40"
-      },
-      "2": {
-        "Name": "Abschied",
-        "Duration_de-DE": "00:00:08",
-        "Duration_en-GB": "00:00:08"
+        "Name": "Einfuehrung_Geraet",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:30",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBOQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cf230590cb2ad892a476d5a99e135adab31466e8/0004370.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBOUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--49fabd3ead55bb90afc014057d34b72b8d91826b/0004370.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "2",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 0.8,
-    "BeaconName": "StairwayBeacon_2"
-  },
-
-  /* Beacon 3a und 4a => Wollen Sie wirklich gehen?  */
-  {
+    "MaxDistanceInMeter": "0.8",
+    "BeaconName": "StairwayBeacon_2",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Wollen_Sie_gehen",
+        "Name": "Begruessung",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:33",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVFCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a93dfad6aebb35a7d4a9578eacff945ba95ec627/audio-AKygEowIB0Yq.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVVCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b388151c7979ddc05862c8f2d6fd18f995f7507/audio-IbOtu6lYtfY1.mp3"
+      },
+      "2": {
+        "Name": "Abschied",
+        "DisplayText_de-DE": null,
         "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6590a005de9d89e81f051c9104b2f529ca43cd6c/audio-K4qcwzoYmXEO.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmtCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cc4bc1960146699b65922072c782b9c2c9925cf2/audio-lpBdquqqU6Nr.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "21",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
-    "BeaconName": "StairwayUpDinerExitBeaconLeft_3a"
-  },
-  {
+    "MaxDistanceInMeter": "1.0",
+    "BeaconName": "StairwayUpDinerExitBeaconLeft_3a",
     "NumberToAudioFileName": {
       "1": {
         "Name": "Wollen_Sie_gehen",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:08",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdm9CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fe382a731eff0fe167be263c3a609ac9f0ce0a3f/audio-N2VPaGFSD8oW.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdnNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4d82e73c819a48ecef2f8c990560bd6f1b1d8db8/audio-riDyLm9oGOSn.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "22",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
-    "BeaconName": "StairwayUpDinerExitBeaconRight_4a"
-  },
-
-
-  /* Beacon 3 und 4 => Geschichte der Magd Teil I  */
-  {
+    "MaxDistanceInMeter": "1.0",
+    "BeaconName": "StairwayUpDinerExitBeaconRight_4a",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Magd_I",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
+        "Name": "Wollen_Sie_gehen",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:08",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0FDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2257aeeefe90811592eac85eb66efd7ed2db8bc3/audio-livvXpLTe5lN.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0VDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b5d551862899a411a34639fbdef0f0e7d697e6b3/audio-WWFDl1rCdkUo.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "3",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
-    "BeaconName": "StairwayUpMagd1WelcomeBeaconLeft_3"
-  },
-  {
+    "MaxDistanceInMeter": "1.0",
+    "BeaconName": "StairwayUpMagd1WelcomeBeaconLeft_3",
     "NumberToAudioFileName": {
       "1": {
         "Name": "Magd_I",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:07",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdndCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d94d40d176f3bb27ba974b2b0c87263cf67b861f/audio-ccVnh5r1gBjE.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--415e2c35267249f076f7f0874408ef732dd7221f/audio-Isk8bpB1WOaH.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "4",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
-    "BeaconName": "StairwayUpMagd1WelcomeBeaconRight_4"
-  },
-
-
-  /* Beacon 5 => Geschichte der Magd Teil II  */
-  {
+    "MaxDistanceInMeter": "1.0",
+    "BeaconName": "StairwayUpMagd1WelcomeBeaconRight_4",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Magd_II",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
+        "Name": "Magd_I",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:07",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9ffc061800419619955355f351f184fa738124f1/audio-pIrMrQra8Ga9.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdjhCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--093a4ab42f025690e06738da4e972b6c90718e71/audio-mfjEjHfgUDJN.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "5",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
-    "BeaconName": "GaleryWestMagd2Beacon_5"
-  },
-
-  /* Beacon 6 => Geschichte der Magd Teil III  */
-  {
+    "MaxDistanceInMeter": "1.0",
+    "BeaconName": "GaleryWestMagd2Beacon_5",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Magd_III",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
+        "Name": "Magd_II",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:07",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYVk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8a0dd52f1b3a80bf7aa5211aefa7c90b5f617742/audio-F1YyVzLHfOrf.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYWM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b5e7be19907ef003a065eceec21bca6ca7c6ef4f/audio-XABauw7dtQlf.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "6",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
-    "BeaconName": "GaleryWestMagd3Beacon_6"
-  },
-
-
-  /* Beacon 7 => Verlassen Arbeitszimmer mit 9 Versionen  */
-  {
+    "MaxDistanceInMeter": "1.0",
+    "BeaconName": "GaleryWestMagd3Beacon_6",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Verlassen_Arbeitszimmer_I",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
-      },
-      "2": {
-        "Name": "Verlassen_Arbeitszimmer_II",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
-      },
-      "3": {
-        "Name": "Verlassen_Arbeitszimmer_III",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
-      },
-      "4": {
-        "Name": "Verlassen_Arbeitszimmer_IV",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
-      },
-      "5": {
-        "Name": "Verlassen_Arbeitszimmer_V",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
-      },
-      "6": {
-        "Name": "Verlassen_Arbeitszimmer_VI",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
-      },
-      "7": {
-        "Name": "Verlassen_Arbeitszimmer_VII",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
-      },
-      "8": {
-        "Name": "Verlassen_Arbeitszimmer_VIII",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
-      },
-      "9": {
-        "Name": "Verlassen_Arbeitszimmer_IX",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
+        "Name": "Magd_III",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:07",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYW89IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5a9a54bb20f64b99842cb8d30c1f71fd87bf1caa/audio-3rk75xlXY377.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYXM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fa2e04ef1c8186192ea5e3187354ec7c4985a872/audio-LS3IVEgrt7Vs.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "7",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 0.8,
-    "BeaconName": "RoomDoorBeacon_Office_7"
-  },
-
-  /* Beacon 8 => Einführung in das Arbeitszimmer mit 2 Versionen  */
-  {
+    "MaxDistanceInMeter": "0.8",
+    "BeaconName": "RoomDoorBeacon_Office_7",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Einfuehrung_Arbeitszimmer_I",
-        "Duration_de-DE": "00:01:40",
-        "Duration_en-GB": "00:01:40"
+        "Name": "Verlassen_Arbeitszimmer_I",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:09",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYTQ9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--372817d92ada73890a4f7f36d61738e754cc7a00/audio-PL9Ep5LVWr11.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYTg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1af1146b269ded4918bef5ff42104cbfff200549/audio-pkh1WwNFHvpo.mp3"
       },
       "2": {
-        "Name": "Einfuehrung_Arbeitszimmer_II",
-        "Duration_de-DE": "00:00:20",
-        "Duration_en-GB": "00:00:20"
+        "Name": "Verlassen_Arbeitszimmer_II",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:11",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--17122514a4a376791343a85fa4f1659fb93d948c/audio-XZVLuNEhGUDT.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYk09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--494fa33bfdff54f2ce619d1380c77c01432a5982/audio-MabXsNiM76ZN.mp3"
+      },
+      "3": {
+        "Name": "Verlassen_Arbeitszimmer_III",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:12",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYlk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6badd07fc5d349119d805a8d15ce18d4b8e16147/audio-C7Ecc1st36AT.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYmM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--712d253072f4d05e4ed6327ad074eb1b59399397/audio-Sz9uqiMkazcX.mp3"
+      },
+      "4": {
+        "Name": "Verlassen_Arbeitszimmer_IV",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:11",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYm89IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a9b28825da9394360911cef13f3021eeeaf79ac1/audio-L4J62jey9I9O.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYnM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--357736090300380cf05bb2bf135fe7be4bacaf49/audio-F46h9GSGWSuu.mp3"
+      },
+      "5": {
+        "Name": "Verlassen_Arbeitszimmer_V",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:11",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYjQ9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4792a3c3a9c6e2430a2415874c5fd57f2995d9bf/audio-r7nSpLISLW1D.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYjg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a4e3c8e18cb3d1daaddb1f458c3d99987fbb1be3/audio-BzMEz0Yt8iaF.mp3"
+      },
+      "6": {
+        "Name": "Verlassen_Arbeitszimmer_VI",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:13",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY0k9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b379d78ff6f26d85fc0b7edc020b610cac33383d/audio-UDZzQLNpvhG3.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY009IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b143942a428d176e62ffaa233a7a37db583c5bfe/audio-K4qBDqgqnaUy.mp3"
+      },
+      "7": {
+        "Name": "Verlassen_Arbeitszimmer_VII",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:14",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY1k9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c201f490c875abcd19422fcae9837c988407aeee/audio-qqPhfYY7Jfn4.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY2M9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9179adf49f3f50c22064e8df5a2bce1ba6d30d63/audio-K1bW58zeAoKx.mp3"
+      },
+      "8": {
+        "Name": "Verlassen_Arbeitszimmer_VIII",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:12",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY289IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e803615da6706730a7d98be27571ff16641608e0/audio-TJGMAaLJzWDp.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBY3M9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--49518925e9d0bf80a8724d1c2d5392b2b50c0134/audio-WEKBwI6RFlVT.mp3"
+      },
+      "9": {
+        "Name": "Verlassen_Arbeitszimmer_IX",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:08",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYzQ9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3233f845d7e3a6982137cefd6af08b77adb00789/audio-XVmvS5mIBCzK.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYzg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5e49f620b6546e631210c68fc67ecc872202cd88/audio-XsZGZu0zsAdC.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "8",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 0.8,
-    "BeaconName": "RoomInsideBeacon_Office_8"
-  },
-
-
-  /* Beacon 9 => Verlassen Kammer mit 11 Versionen  */
-  {
+    "MaxDistanceInMeter": "0.8",
+    "BeaconName": "RoomInsideBeacon_Office_8",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Verlassen_Kammer_I",
-        "Duration_de-DE": "00:00:15",
-        "Duration_en-GB": "00:00:15"
+        "Name": "Einfuehrung_Arbeitszimmer_I",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:01:19",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZEk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--edcd2b1162d4f565a2ccb0917e5a512bd88f4b7c/audio-ptm89Q6sh41H.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZE09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7df1e025a3458131caea242fa7eee4f492ff38e5/audio-FvupcD1JkJw2.mp3"
       },
       "2": {
-        "Name": "Verlassen_Kammer_II",
-        "Duration_de-DE": "00:00:15",
-        "Duration_en-GB": "00:00:15"
-      },
-      "3": {
-        "Name": "Verlassen_Kammer_III",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "4": {
-        "Name": "Verlassen_Kammer_IV",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "5": {
-        "Name": "Verlassen_Kammer_V",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "6": {
-        "Name": "Verlassen_Kammer_VI",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "7": {
-        "Name": "Verlassen_Kammer_VII",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "8": {
-        "Name": "Verlassen_Kammer_VIII",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "9": {
-        "Name": "Verlassen_Kammer_IX",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "10": {
-        "Name": "Verlassen_Kammer_X",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "11": {
-        "Name": "Verlassen_Kammer_XI",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
+        "Name": "Einfuehrung_Arbeitszimmer_II",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:10",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZFk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8ce1a065822a36bb8ab68b385d8b4540aa7f464e/audio-Wq43mQLSM9TP.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZGM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7673660b21ba667b78a2a54e54cff319ba53100f/audio-Oh7h5gQqDU0Y.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "9",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
-    "BeaconName": "RoomDoorBeacon_Chamber_9"
-  },
-
-  /* Beacon 10 => Einführung in die Kammer mit 2 Versionen  */
-  {
+    "MaxDistanceInMeter": "1.0",
+    "BeaconName": "RoomDoorBeacon_Chamber_9",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Einfuehrung_Kammer_I",
-        "Duration_de-DE": "00:01:30",
-        "Duration_en-GB": "00:01:30"
+        "Name": "Verlassen_Kammer_I",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:17",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZG89IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e2775fe60e3dd26f3ac7c09b5b3f5fe551d106e9/audio-uXtfpDK5pm7o.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZHM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b16fd8650b78d020180e04528eff7614f730887/audio-F0aNfrn55D6d.mp3"
       },
       "2": {
-        "Name": "Einfuehrung_Kammer_II",
+        "Name": "Verlassen_Kammer_II",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:17",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZDQ9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ece3dd11fc808106f503e40b86b26ec52d0e8035/audio-mcYtKJoG1PRj.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZDg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f2bd85e69d2344af371eab3dbfe4775f63125a2d/audio-eikRL0fczgMo.mp3"
+      },
+      "3": {
+        "Name": "Verlassen_Kammer_III",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:18",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZUk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--85078c33eb0814d1e1bb124d78e12327fb1f9b46/audio-xVJblSHQT127.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZU09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1c9205c6a76f56cfdc390d060a36a60cd9ee6422/audio-tj9DMugKUcVp.mp3"
+      },
+      "4": {
+        "Name": "Verlassen_Kammer_IV",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:14",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZVk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fd8a9ce37903e4d675869eb15cf69120cc19aa01/audio-pw235vhyhn4T.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZWM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d5ba07ebb1718b8142ece98a819017eb9f3dddac/audio-mbkTNcNI9gnG.mp3"
+      },
+      "5": {
+        "Name": "Verlassen_Kammer_V",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:12",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZW89IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3c883483003cfd3f8e1e7afae4569f1be3682ab5/audio-fN0I5sOlNXDD.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZXM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f66ae80573e6fa92a4a4ef101760bcfd35f5041c/audio-DzpexWGXwLmv.mp3"
+      },
+      "6": {
+        "Name": "Verlassen_Kammer_VI",
+        "DisplayText_de-DE": null,
         "Duration_de-DE": "00:00:15",
-        "Duration_en-GB": "00:00:15"
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZTQ9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d1da30041a2fb55a7076e0db1944039514d5f91/audio-WTqG5hvT6KDn.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZTg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a78727ee08c34acdf8b38c4c4e98c7cab3869ca4/audio-BmQGkLAUaphQ.mp3"
+      },
+      "7": {
+        "Name": "Verlassen_Kammer_VII",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:13",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZkk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9ebdeea5086554c4181bcf83daf10af9d15aabf8/audio-etaIotMfxTFh.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZk09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5c367d5b554b681ca1313bf2639c5f857a32961f/audio-r9wuRQiwHK8D.mp3"
+      },
+      "8": {
+        "Name": "Verlassen_Kammer_VIII",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:12",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZlk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eabd1b04b7c634b030b4dd46e278a618b6ea9780/audio-DEZYaxFVbRJs.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZmM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9545e497bf37838afe82c85af9855a17fb6fdfb3/audio-KouhiHaAfprY.mp3"
+      },
+      "9": {
+        "Name": "Verlassen_Kammer_IX",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:13",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZm89IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--70503f872b12983fce63f81d805c2c1da94a4ea3/audio-WIlwhRfHmBBp.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZnM9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fdda303b0ff2fbf4431321de35662c2e19a82f10/audio-2lvyNsGeCMTN.mp3"
+      },
+      "10": {
+        "Name": "Verlassen_Kammer_X",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:18",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZjQ9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dda02d3a6d3cd1e61c73c9c2613698c79234bcdc/audio-wF3zJ8g9po0w.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZjg9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2df028ba4f4a922ae149b338bca81c7d0dbd0628/audio-OWI4zIyJv4jt.mp3"
+      },
+      "11": {
+        "Name": "Verlassen_Kammer_XI",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:13",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9d38492a0330412dfa77a19d92c0cefffa8be272/audio-CzqweyWSNOTm.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ01CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6fe2ff5568d619c453dd086f8b222da31e40c968/audio-5bENLPZai2yn.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "10",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 0.8,
-    "BeaconName": "RoomInsideBeacon_Chamber_10"
-  },
-
-  /* Beacon 12 => Einführung in den Salon mit 2 Versionen  */
-  {
+    "MaxDistanceInMeter": "0.8",
+    "BeaconName": "RoomInsideBeacon_Chamber_10",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Einfuehrung_Salon_I",
-        "Duration_de-DE": "00:01:30",
-        "Duration_en-GB": "00:01:30"
+        "Name": "Einfuehrung_Kammer_I",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:01:20",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1lCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b6d47dd11e0f176664a7514818c12ac9d37b28cc/audio-I7Tnsj2eDpax.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2NCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--855cc798ca4a5d2cc61c5ebd2b99e4ae25764884/audio-UrchaYVsNt8D.mp3"
       },
       "2": {
-        "Name": "Einfuehrung_Salon_II",
-        "Duration_de-DE": "00:00:15",
-        "Duration_en-GB": "00:00:15"
+        "Name": "Einfuehrung_Kammer_II",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:09",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ29CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--adeb334466a11d70b98c05acd7b256f0b6b4be85/audio-e2sfbE9F5soX.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3NCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e80fee8e716145c4b345c8d4a0cd4eae1d15a2fb/audio-6nbJ3Nyqw7D6.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "12",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 0.8,
-    "BeaconName": "RoomInsideBeacon_Salon_12"
-  },
-
-  /* Beacon 11 => Verlassen Salon mit 11 Versionen  */
-  {
+    "MaxDistanceInMeter": "0.8",
+    "BeaconName": "RoomInsideBeacon_Salon_12",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Verlassen_Salon_I",
-        "Duration_de-DE": "00:00:15",
-        "Duration_en-GB": "00:00:15"
+        "Name": "Einfuehrung_Salon_I",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:01:28",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--78e9ab4b95fb58ea0ee08b0f883c4927d8803364/audio-ojFsqhuECn5X.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzhCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a38034f80769981a147515d470a8e56c8216d5d9/audio-D5Kn6qLmZ2jE.mp3"
       },
       "2": {
-        "Name": "Verlassen_Salon_II",
-        "Duration_de-DE": "00:00:15",
-        "Duration_en-GB": "00:00:15"
-      },
-      "3": {
-        "Name": "Verlassen_Salon_III",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "4": {
-        "Name": "Verlassen_Salon_IV",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "5": {
-        "Name": "Verlassen_Salon_V",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "6": {
-        "Name": "Verlassen_Salon_VI",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "7": {
-        "Name": "Verlassen_Salon_VII",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "8": {
-        "Name": "Verlassen_Salon_VIII",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "9": {
-        "Name": "Verlassen_Salon_IX",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "10": {
-        "Name": "Verlassen_Salon_X",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "11": {
-        "Name": "Verlassen_Salon_XI",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
+        "Name": "Einfuehrung_Salon_II",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:08",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaElCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--44f10f3ee0e98b85ff2c567a7f7fd815a7a27427/audio-bV0qi1XibwJe.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaE1CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5fa2b653371c68eecec19a459595aa8e61aadd1c/audio-PqcTeEihTqO7.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "11",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
-    "BeaconName": "RoomDoorBeacon_Salon_11"
-  },
-
-  /* Beacon 13 => Zwischentext */
-  {
+    "MaxDistanceInMeter": "1.0",
+    "BeaconName": "RoomDoorBeacon_Salon_11",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Zwischentext_I",
-        "Duration_de-DE": "00:00:15",
-        "Duration_en-GB": "00:00:15"
+        "Name": "Verlassen_Salon_I",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:12",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--896687d7503f3ad62fe33e53824701c955f56e2e/audio-j8ejnXn7AV01.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bd735b1da4e279c49e45133367f1e8f73bf23b5f/audio-lGhVclIV4IMp.mp3"
+      },
+      "2": {
+        "Name": "Verlassen_Salon_II",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:09",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaG9CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4c539b7ea7fb3e927818578526c2d69a4e685794/audio-EjKWzy1K45Ko.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b7ff37e61f2c0d919a37c4ddc51b637f4ee72fa0/audio-8mtmkgFFSrVJ.mp3"
+      },
+      "3": {
+        "Name": "Verlassen_Salon_III",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:11",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5f5468070955fe3f33a6b77c03009248f17be429/audio-aOhcxbiF3cAL.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDhCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--83f607f3c4efd8973b8350b515b3907af7e355a4/audio-1bcH5qXoyz3h.mp3"
+      },
+      "4": {
+        "Name": "Verlassen_Salon_IV",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:11",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUlCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f75401eeb0d7dd9c651e401b119c3f790634de9a/audio-T9vtsd3hqcla.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaU1CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--13c7791841b03f2d855acbd608722e0ccd1b6966/audio-WmfVia36akPQ.mp3"
+      },
+      "5": {
+        "Name": "Verlassen_Salon_V",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:11",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVlCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e11a6da9d5c14ae6f251a519024aee7d40b3cce3/audio-DYlt09ZaAbsN.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0a07f4f12178ee3f03147c24974450ce2d1b817e/audio-FfoSNOGpaXgZ.mp3"
+      },
+      "6": {
+        "Name": "Verlassen_Salon_VI",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:08",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaW9CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6c2bea26b24fdbbfb573f417f52105148be6ee33/audio-Qx8RHk5bmUGj.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaXNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--360cf408194daab54b9e39b3bebc4ef64c41f943/audio-lgTmta510aw5.mp3"
+      },
+      "7": {
+        "Name": "Verlassen_Salon_VII",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:10",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--36fd4a418507ed8109e466f47b4ece4e807d0a74/audio-zIbJ0ZkpdDiR.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaThCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97200d5b23b92a30048f444b5934bfe6f7d7c02a/audio-OX3Wy1cuT8f7.mp3"
+      },
+      "8": {
+        "Name": "Verlassen_Salon_VIII",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:10",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaklCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6f556b38dee0c8b7a366c2e6fc3557a38fb777a1/audio-6Cvx5u7g8QEF.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBak1CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0fd943c2f68b2b4f43f97f4e0b2e5312cbbebb6d/audio-CGcQuEtCd7Oo.mp3"
+      },
+      "9": {
+        "Name": "Verlassen_Salon_IX",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:08",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBallCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7e6933eb3fb3f8bd41fb868f81b4b9d02da2a7b9/audio-4z7RuZfDo6xC.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b7ce2b82d1dcf8f5837eb8a785d23fba6c23c2c6/audio-IFtXh5Yylhhx.mp3"
+      },
+      "10": {
+        "Name": "Verlassen_Salon_X",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:09",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBam9CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a0983dad26dd57b883814178e269dac58ed98b0d/audio-DUNqufjr9AyP.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBanNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1df70fdcc7a5556611931bf8aa3173cdfce2d758/audio-GwWzj4kvJPSN.mp3"
+      },
+      "11": {
+        "Name": "Verlassen_Salon_XI",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:09",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e44a128427f66c1d8fa475123ad62b592dff5174/audio-OXvBUNPxiQAc.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBajhCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b867e663d01f5468d8942a10cac45059cb871448/audio-CqRu9rXviY02.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "13",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
-    "BeaconName": "ZwischentextBeacon_13"
-  },
-
-  /* Beacon 14 => Einfuehrung_Foyer */
-  {
+    "MaxDistanceInMeter": "1.0",
+    "BeaconName": "ZwischentextBeacon_13",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Einfuehrung_Foyer",
-        "Duration_de-DE": "00:00:15",
-        "Duration_en-GB": "00:00:15"
+        "Name": "Zwischentext_I",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:06",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0lCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9c7b6ec074e93d6faf61a3757d01ba46d62fff55/audio-rTtQhVqFoQ64.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa01CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a1d4bdd892d38c0e41729ec0c31310d57b074f60/audio-dcsDHOnoXSUr.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "14",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
-    "BeaconName": "EinfuehrungFoyer_14"
-  },
-
-
-  /* Beacon 16 => Einführung in die Bibliothek mit 2 Versionen  */
-  {
+    "MaxDistanceInMeter": "1.0",
+    "BeaconName": "EinfuehrungFoyer_14",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Einfuehrung_Bibliothek_I",
-        "Duration_de-DE": "00:01:30",
-        "Duration_en-GB": "00:01:30"
-      },
-      "2": {
-        "Name": "Einfuehrung_Bibliothek_II",
-        "Duration_de-DE": "00:00:15",
-        "Duration_en-GB": "00:00:15"
+        "Name": "Einfuehrung_Foyer",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:08",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0263c1966758e0b4e2211cb232b9e8b3be95093e/audio-zCO7EvomNcCb.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2NCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--283a1dd78239cccb6e5644a0e0648ef012b194c5/audio-rUMppDHqQVu7.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "16",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 0.8,
-    "BeaconName": "RoomInsideBeacon_Library_16"
-  },
-
-  /* Beacon 15 => Verlassen Bibliothek mit 9 Versionen  */
-  {
+    "MaxDistanceInMeter": "0.8",
+    "BeaconName": "RoomInsideBeacon_Library_16",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Verlassen_Bibliothek_I",
-        "Duration_de-DE": "00:00:15",
-        "Duration_en-GB": "00:00:15"
+        "Name": "Einfuehrung_Bibliothek_I",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:01:48",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--45a80ade9180be46e91ce7b10e17637c6a4c4f13/audio-WxCrGZlZESmf.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3NCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dbe1557da295f1f0907170cbea06a71632252734/audio-ShjrGscWGcj5.mp3"
       },
       "2": {
-        "Name": "Verlassen_Bibliothek_II",
-        "Duration_de-DE": "00:00:15",
-        "Duration_en-GB": "00:00:15"
-      },
-      "3": {
-        "Name": "Verlassen_Bibliothek_III",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "4": {
-        "Name": "Verlassen_Bibliothek_IV",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "5": {
-        "Name": "Verlassen_Bibliothek_V",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "6": {
-        "Name": "Verlassen_Bibliothek_VI",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "7": {
-        "Name": "Verlassen_Bibliothek_VII",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "8": {
-        "Name": "Verlassen_Bibliothek_VIII",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
-      },
-      "9": {
-        "Name": "Verlassen_Bibliothek_IX",
-        "Duration_de-DE": "00:00:05",
-        "Duration_en-GB": "00:00:05"
+        "Name": "Einfuehrung_Bibliothek_II",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:14",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2b8e5005af2b5e66cd7c0defca57fd6c44177a20/audio-CdyPKhOqOjnM.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazhCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8f12e6182aea0bd6f4e87be0226792136414344d/audio-YAVS09X57Uip.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "15",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
-    "BeaconName": "RoomDoorBeacon_Bibliothek_15"
-  },
-
-  /* Beacon 17 => Willkommen auf Cappenberg Lift */
-  {
+    "MaxDistanceInMeter": "1.0",
+    "BeaconName": "RoomDoorBeacon_Bibliothek_15",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Begruessung",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40"
+        "Name": "Verlassen_Bibliothek_I",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:16",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbElCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6360d231a0b1b8110e1c49161067f630d1dac359/audio-V9br8w2qTDyz.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbE1CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6e7fbdb53312756ddcac9cb9c1e4c120610b3079/audio-UjJDbRnxRPQB.mp3"
       },
       "2": {
-        "Name": "Abschied",
-        "Duration_de-DE": "00:00:08",
-        "Duration_en-GB": "00:00:08"
+        "Name": "Verlassen_Bibliothek_II",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:18",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFlCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10e8d503e8f9767200e11be7e96a769ca53acb51/audio-Gze9tz3JQ1lF.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92f23670daa5f1b597d75164dff66c7f6d6634d6/audio-obmCTfHL32YR.mp3"
+      },
+      "3": {
+        "Name": "Verlassen_Bibliothek_III",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:17",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbG9CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--14513d49aa6895faf90cab2ed06bc3afebdd1d8d/audio-ToDIkVWFUb3U.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--76c6bd64cfda10d6ac44893888a7a6950b3fe3a6/audio-bbbXd7Y2b36L.mp3"
+      },
+      "4": {
+        "Name": "Verlassen_Bibliothek_IV",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:19",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fed969a0f006ac0e7be32ff5b707cef597c4321a/audio-9KUfnFPbDD3b.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbDhCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--70f751d1f83755c5e1726ebbc5727e4ccb1ac0bd/audio-RW0u9gEDc6X6.mp3"
+      },
+      "5": {
+        "Name": "Verlassen_Bibliothek_V",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:16",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUlCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2f4dd339e34ac82dfc89e833ac54c2db1e5c6eaa/audio-yIrNy7VRikp1.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbU1CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cc65b4cad546a53c655e61343dd7f169d7421184/audio-Gg8usBbwmPEl.mp3"
+      },
+      "6": {
+        "Name": "Verlassen_Bibliothek_VI",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:17",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVlCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--94b43401e3d002a7a218780140f07084e50a149f/audio-YYozVN5JRBBK.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8a009a1a2336e0f0dbd678935207da49727d2edd/audio-jHB8L9ps03rl.mp3"
+      },
+      "7": {
+        "Name": "Verlassen_Bibliothek_VII",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:16",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbW9CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--54c1f7779c97d36ca5454da54752a54a88ed3c3e/audio-obCKh7CEP4tQ.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9a9b47f0223c21b24048e2782ec4bce27c64bef7/audio-6m7u3ZwsjS5E.mp3"
+      },
+      "8": {
+        "Name": "Verlassen_Bibliothek_VIII",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:19",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--11b8e7685ee1e026f7a9631e732d994b73d72336/audio-TYq5pE7NqqDW.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbThCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a431372d2edb11b529d9e8e9c7ebd382f50c1581/audio-I8dOGglUVlvO.mp3"
+      },
+      "9": {
+        "Name": "Verlassen_Bibliothek_IX",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:15",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbklCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bdd8996ab7e38f0315f7da9874a4a483e4e26f79/audio-iBwTYURWSEpI.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbk1CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--527be56ae2e6a4d9a5199f68c3730603b2e35b15/audio-Z3DfdQgXmSqG.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "17",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
-    "BeaconName": "LiftBeacon_17"
-  },
-
-  /* Beacon 18 => Willkommen in der Galerie Ost  */
-  {
+    "MaxDistanceInMeter": "1.0",
+    "BeaconName": "LiftBeacon_17",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Einfuehrung_Galerie_Ost",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40"
+        "Name": "Begruessung",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:33",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVlCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad16d6814081996c2850072f1228c96dd2e891c8/audio-nFM5dvgzHfdQ.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c5eda4287d6e27924b66cd60b40d698a496849ec/audio-HhMrlqQ0s6QQ.mp3"
+      },
+      "2": {
+        "Name": "Abschied",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:20",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbm9CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--043c61e7b9bfe29fa48211c05cef961f3636c5b8/audio-cMkczdRSP7fI.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--243406ac07f9ad8870cafc2fcd239f579e97c17c/audio-zGaXEkrVrVgI.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "18",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
-    "BeaconName": "Galery_EastBeacon_18"
-  },
-
-
-  /* Beacon 20 => Einführung in den Steinsaal mit 2 Versionen  */
-  {
+    "MaxDistanceInMeter": "1.0",
+    "BeaconName": "Galery_EastBeacon_18",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Einfuehrung_Steinsaal_I",
-        "Duration_de-DE": "00:01:30",
-        "Duration_en-GB": "00:01:30"
-      },
-      "2": {
-        "Name": "Einfuehrung_Steinsaal_II",
-        "Duration_de-DE": "00:00:15",
-        "Duration_en-GB": "00:00:15"
+        "Name": "Einfuehrung_Galerie_Ost",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:23",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--55a32a255635982b94b8c82632763334c4dce234/audio-xF7SoYyJL4XG.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjhCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7e945653a18ced0e2871897ee8e4ef5d19598d78/audio-mJSZavAiNcCe.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "20",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 0.8,
-    "BeaconName": "RoomInsideBeacon_Steinsaal_20"
-  },
-
-  /* Beacon 19 => Verlassen Steinsaal mit 2 Version  */
-  {
+    "MaxDistanceInMeter": "0.8",
+    "BeaconName": "RoomInsideBeacon_Steinsaal_20",
     "NumberToAudioFileName": {
       "1": {
-        "Name": "Verlassen_Steinsaal",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30"
+        "Name": "Einfuehrung_Steinsaal_I",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:01:37",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0lCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0a3292f3f5f95e1f5d4db4546765a99dc53c1f6a/audio-3mqhnHPdbOgj.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb01CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e6cbfbbbb220a7ea116671f94c91bed6c49aecd8/audio-lWh7i91cxsvE.mp3"
+      },
+      "2": {
+        "Name": "Einfuehrung_Steinsaal_II",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:10",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1lCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10fafba0ee8ddb026d91586891ae3f4710ec0e76/audio-BO72paKOLjcs.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2NCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d41e4a054aafb4618cf506de798659dbbb576a3b/audio-VABLLpM1Nm4p.mp3"
       }
-    },
+    }
+  },
+  {
     "ID": "19",
     "VisitCount": 0,
     "AlreadyPlayed": false,
     "PlayedTimestamp": "1900-01-01T10:00:00",
     "MaxRSSIValue": 60,
-    "MaxDistanceInMeter": 1.0,
-    "BeaconName": "RoomDoorBeacon_Steinsaal_19"
+    "MaxDistanceInMeter": "1.0",
+    "BeaconName": "RoomDoorBeacon_Steinsaal_19",
+    "NumberToAudioFileName": {
+      "1": {
+        "Name": "Verlassen_Steinsaal",
+        "DisplayText_de-DE": null,
+        "Duration_de-DE": "00:00:15",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb29CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6840b10202ce225718fb216ee794a714a437c9ac/audio-tLLSGnmNvd4b.mp3",
+        "DisplayText_en-GB": null,
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3NCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d3450430aa61e895b7ea8cc2583dc715b11effe4/audio-SkIPzKmofoKp.mp3"
+      }
+    }
   }
 ]

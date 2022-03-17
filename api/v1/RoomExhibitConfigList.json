@@ -1,63 +1,73 @@
-[
-  {
+[{
     "RoomName": "Stairway_Mid",
-    "NFCTagAudioAssignment": [
-      {
-        "ID": "2",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40",
-        "DisplayText_de-DE": "Stifterbild aus Scheda",
-        "DisplayText_en-GB": "Founder picture from Scheda",
-        "ImageName": "DinerJohann.png",
-        "AudioFileName": "Scheda"
-      }
-    ]
+    "RoomPlan": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBDZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1bd66d611dadb78fbaabf64cd27a320d49687025/Karte_Treppe.png",
+    "NFCTagAudioAssignment": [{
+      "ID": "2",
+      "DisplayText_de-DE": "Stifterbild aus Scheda",
+      "Duration_de-DE": "00:00:34",
+      "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBTdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3b2bff5ef32a913f83a8721a9772fed8f2beb394/audio-4DhI2gWg9OnI.mp3",
+      "DisplayText_en-GB": "Founder picture from Scheda",
+      "Duration_en-GB": "00:00:30",
+      "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBUQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0aa3b6f0f7624f93271fd704ae9d32f62ece3429/audio-dG1jHeyERC9a.mp3",
+      "ImageName": "DinerJohann.png",
+      "AudioFileName": "Scheda"
+    }]
   },
   {
     "RoomName": "Galery_West",
-    "NFCTagAudioAssignment": [
-      {
+    "RoomPlan": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBDdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9d5bb94605d6dd1bd20c873c4ce2bc8bd2633d54/Karten_Galerie-West.png",
+    "NFCTagAudioAssignment": [{
         "ID": "3",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40",
         "DisplayText_de-DE": "Herkunft der Familie vom und zum Stein",
+        "Duration_de-DE": "00:00:46",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--26c26af3d739883d622eca0443a201eee1a3a88a/audio-FkpKd5m6aUqm.mp3",
         "DisplayText_en-GB": "Origin of the family vom und zum Stein",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ01DIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--245e338d9344e1199bb6cf42d3b4e4bf936b53dd/audio-Hmu9gcUwK1bu.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Namen_Herkunft"
       },
       {
         "ID": "4",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40",
         "DisplayText_de-DE": "Wappenkalender der rheinischen Reichsritterschaft, Mainz 1776",
+        "Duration_de-DE": "00:01:00",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1FDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5b58868af0a97e67e8887c9baa25de90656468b6/audio-NI7gom84JqHI.mp3",
         "DisplayText_en-GB": "Heraldic Calendar of the Rhenish Imperial Knighthood, Mainz 1776",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1VDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--95d9de1c13da11c621e58314df8f7feef0475cbd/audio-sUPofakW9JAb.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Stand_der_Familie"
       },
       {
         "ID": "5",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40",
         "DisplayText_de-DE": "Familienportraits",
+        "Duration_de-DE": "00:00:56",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1lDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d65a35a3c649b3a4308516eadb403004e2617efc/audio-9UdDfum7rhIi.mp3",
         "DisplayText_en-GB": "Family portraits",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2NDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3caa70beb0deca19ca4e780f1582f74e70202a46/audio-M7e4aPmnhP89.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Erziehung_Jugend"
       },
       {
         "ID": "6",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40",
         "DisplayText_de-DE": "Studium in Göttingen (1773 - 1777)",
+        "Duration_de-DE": "00:00:41",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2dDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f0816e461c37a29d77ee4c3282dccaab54800cf8/audio-jNZepq33yxvy.mp3",
         "DisplayText_en-GB": "Studies in Göttingen (1773 - 1777)",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2tDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2b91b4068f36e57e49ad58fb3694ff57f0d1c9e8/audio-hO3Qfx8h6CO6.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Studium"
       },
       {
         "ID": "7",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40",
         "DisplayText_de-DE": "Christus im Garten Gethsemane, 1786, Johann Christoph Rincklake",
+        "Duration_de-DE": "00:00:48",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ29DIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a1d470f32f8c4951446406f35b059df477630c80/audio-PpMPuvW9rymH.mp3",
         "DisplayText_en-GB": "Christ in the Garden of Gethsemane, 1786, Johann Christoph Rincklake",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3NDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1ba0ce5f98490fe050f0777bdbae782e6951932b/audio-XMkSEXO1As8Y.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Gottvertrauen"
       }
@@ -65,94 +75,114 @@
   },
   {
     "RoomName": "Office",
-    "NFCTagAudioAssignment": [
-      {
+    "RoomPlan": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a7a2088e10546ef6315637f62dfd0bb76a7dc8ac/Karten_GR-Arbeitszimmer.png",
+    "NFCTagAudioAssignment": [{
         "ID": "8",
-        "Duration_de-DE": "00:01:40",
-        "Duration_en-GB": "00:01:40",
         "DisplayText_de-DE": "1780: Eintritt in den preußischen Staatsdienst",
+        "Duration_de-DE": "00:01:03",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcEFCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97b11ec42c9226e9f6c4dafd2b026ff6bd214d82/audio-n4KJbwtN2Xcs.mp3",
         "DisplayText_en-GB": "1780: Entry into the Prussian civil service",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcEVCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8443fe7fe8ede076717900f9de1ee9fc27fac24a/audio-oKpTeERC86YQ.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Steins_Ueberzeugung"
       },
       {
         "ID": "9",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40",
         "DisplayText_de-DE": "1784: Freiherr vom Stein wird Oberbergrat",
+        "Duration_de-DE": "00:01:15",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBZUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--567b5626d56166b830e07cdd17b492a911a0e592/audio-NNedQldpEqEA.mp3",
         "DisplayText_en-GB": "1784: Baron vom Stein becomes chief burgrave",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBZZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--98dd8de33d7ac21a8920cd8efaf82acbf760a0f3/audio-efryo2fT3yjS.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Oberbergrat_Stein"
       },
       {
         "ID": "10",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40",
         "DisplayText_de-DE": "1796: Oberkammerpräsident mit Dienstsitz in Minden",
+        "Duration_de-DE": "00:00:47",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBaUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0f8026c9e1d4b78cef1220856f8950d611c9a999/audio-MghAJJhbCvzM.mp3",
         "DisplayText_en-GB": "1796: President of the upper chamber with official residence in Minden",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBaZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cc631f30e3179a3477a311e44c46ca5a987b4381/audio-5YmIJMD9mEpi.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Dienstsitz_Minden"
       },
       {
         "ID": "11",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40",
         "DisplayText_de-DE": "Industriespionage in England",
+        "Duration_de-DE": "00:00:46",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBhUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--92a0fba3649763d09ff1d4cc2fc1bbacb5115224/audio-RUGoOoTEpqD4.mp3",
         "DisplayText_en-GB": "Industrial espionage in England",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBhZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ba12ba4b79ccfdb7c05fca5002882642cb2ddfd1/audio-3hph3I9NsjYG.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Stein_will_Fortschritt"
       },
       {
         "ID": "12",
-        "Duration_de-DE": "00:01:40",
-        "Duration_en-GB": "00:01:40",
         "DisplayText_de-DE": "1802: Säkularisation der Bischofssitze in Westfalen",
+        "Duration_de-DE": "00:01:38",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--acb81276e56d725466a69c9a9c4e77a01d620e7d/audio-XJB8tacYk6nF.mp3",
         "DisplayText_en-GB": "1802: Secularization of the bishoprics in Westphalia",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzhCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d9751fd533ea616065ae47ffe0759a9a16f1c6d7/audio-XeVFV4Q7sKRU.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Saekularisierung"
       },
       {
         "ID": "13",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40",
         "DisplayText_de-DE": "1806: Modernisierung des Finanzsystems",
+        "Duration_de-DE": "00:00:55",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9b02a42751a1bee73a204ac761d169e2e5722d7f/audio-dYIyrAmcwqrU.mp3",
         "DisplayText_en-GB": "1806: Modernisation of the financial system",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBjZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fe74eb48dc9122481166009e85595795bde3cc6b/audio-9Vs1myTQ7tqv.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Stein_Finanzsystem"
       },
       {
         "ID": "14",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40",
         "DisplayText_de-DE": "1806: Widerstand gegen die Kabinettsräte des Königs",
+        "Duration_de-DE": "00:00:42",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcElCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--88c0f222c1d5cb674314e9f9173f26c89c80ad88/audio-TCzH2uoCwgxS.mp3",
         "DisplayText_en-GB": "1806: Resistance to the King's cabinet councils",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcE1CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--441ffa569ec7ee193c228060cd5b2a5c588adddd/audio-9GQ4LUiWWJ6l.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Kabinetsraete"
       },
       {
         "ID": "15",
-        "Duration_de-DE": "00:00:40",
-        "Duration_en-GB": "00:00:40",
         "DisplayText_de-DE": "1807: Rücktritt als Finanzminister",
+        "Duration_de-DE": "00:01:08",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBlUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--55e7811ef6dca6db23cbf0bd22d7437a2218fc23/audio-S1CqZHYMMOJB.mp3",
         "DisplayText_en-GB": "1807: Resignation as Minister of Finance",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBlZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e02c9b9f36c0ac0cc7191cc1462080207de7e881/audio-K2JdrBDgR7xa.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Entlassung_als_Finanzminister"
       },
       {
         "ID": "16",
-        "Duration_de-DE": "00:01:40",
-        "Duration_en-GB": "00:01:40",
         "DisplayText_de-DE": "1807: Die Nassauer Denkschrift",
+        "Duration_de-DE": "00:01:22",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBmUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7220e5c33c3773b032c12e9f79458e65cef280e8/audio-w5x3YlDuBVtM.mp3",
         "DisplayText_en-GB": "1807: The Nassau Memorandum",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBmZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3adcd02b27e3af3779fabe05418e73601a1a5f12/audio-G1ATzqm5on6z.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Nassauer_Denkschrift"
       },
       {
         "ID": "17",
-        "Duration_de-DE": "00:01:40",
-        "Duration_en-GB": "00:01:40",
         "DisplayText_de-DE": "1807: Preußische Reformen",
+        "Duration_de-DE": "00:01:51",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWHc9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e42c1d111da3c893949281bbee921a65afd26260/audio-sutHfKop9tDS.mp3",
         "DisplayText_en-GB": "1807: Prussian reforms",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWDA9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8a028423940be61cea7518c0fbbe1002b34c7471/audio-sv9alSkRx8bv.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Bauernbefreiung"
       }
@@ -160,257 +190,306 @@
   },
   {
     "RoomName": "Chamber",
-    "NFCTagAudioAssignment": [
-      {
+    "RoomPlan": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d077e5744776f645543da90ca59fa86444d3d115/Karten_GR-Kammer.png",
+    "NFCTagAudioAssignment": [{
         "ID": "18",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "1808: Flucht vor Napoleon",
+        "Duration_de-DE": "00:00:58",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWUE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1d2c2fe70cbc0efba2a0fa22217da9b33f9dd007/audio-YqAm31C3t1Lm.mp3",
         "DisplayText_en-GB": "1808: Escape from Napoleon",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWUU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--97cc5635e2200cf41e22eafb483d90fd36d3de67/audio-QYUpU5TF8S0v.mp3",
         "ImageName": "Magd.png",
         "AudioFileName": "Napolen"
       },
       {
         "ID": "19",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "1809: Exil in Prag",
+        "Duration_de-DE": "00:01:07",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWVE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--463673d40d8e1350cf81bcf5a1951d80f292aa55/audio-NpkKOjr3MxV6.mp3",
         "DisplayText_en-GB": "1809: Exile in Prague",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWVU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9d55183c93e21bc6cef0b4921e9f8ce61f8d684e/audio-3M23T7IkgdLS.mp3",
         "ImageName": "Magd.png",
         "AudioFileName": "Flucht_als_Geaechteter"
       },
       {
         "ID": "20",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Reisesessel des Freiherrn vom Stein, Original, um 1813/20",
+        "Duration_de-DE": "00:00:27",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWWc9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--abef8a2b1eaaba704d443232490d0250c6dc753f/audio-7M9g3n8XJvcb.mp3",
         "DisplayText_en-GB": "Baron vom Stein's travelling chair, original, c. 1813/20",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWWs9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8414127fb13bb3290fc3b9dc3c6a6959d6fd5b8b/audio-TP2xIAQLXpE8.mp3",
         "ImageName": "Magd.png",
         "AudioFileName": "Krankheit_Steins"
       }
     ]
   },
-  /* Salon mit Dialog */
   {
     "RoomName": "Salon",
-    "NFCTagAudioAssignment": [
-      {
+    "RoomPlan": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0636633e89c9e360a1ce47855beacc42a97c4445/Karten_GR-Salon.png",
+    "NFCTagAudioAssignment": [{
         "ID": "21",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Wissenswertes über die Familie",
+        "Duration_de-DE": "00:00:44",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcFlCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--121657d57c1d2bfc0994345316244b571e0d9915/audio-S20nLsoJO5or.mp3",
         "DisplayText_en-GB": "Things to know about the family",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--366905f32c06458199148d6b516f1906396184c9/audio-vjeQKjEM88HB.mp3",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Familie_Stein_I"
       },
       {
         "ID": "21Yes",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Wissenswertes über die Familie",
+        "Duration_de-DE": "00:01:02",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcG9CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fead42039efab22b2819e1e4169079b92d2f397b/audio-zhHxOHmz3paC.mp3",
         "DisplayText_en-GB": "Things to know about the family",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcHNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--eb20c5f223ad8cdbd7221bfdb7187c940f2fc7e2/audio-i1BMC0Ip0d4E.mp3",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Familie_Stein_II"
       },
       {
         "ID": "22",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Aktuelle Politik in Westfalen",
+        "Duration_de-DE": "00:00:50",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcDRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9c4af6d8e78078ed75013ab5b6b48e252f991f35/audio-HuIVgfRYhNT4.mp3",
         "DisplayText_en-GB": "Current politics in Westphalia",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcDhCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8077ef61b87c673b09b29006408b82754cbcc900/audio-Ks7lzkBWbPda.mp3",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Politik_Westphalen_I"
       },
       {
         "ID": "22Yes",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Aktuelle Politik in Westfalen",
+        "Duration_de-DE": "00:01:00",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2105f35ee2ccaa757ab09eb8700e6b401d866876/audio-5Y8qNh8MfZO5.mp3",
         "DisplayText_en-GB": "Current politics in Westphalia",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWtCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--10adf678531b1b42fc58b66eba62efdc99833461/audio-gtozRTsqKOhn.mp3",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Politik_Westphalen_II"
       },
       {
         "ID": "23",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Neues aus der Welt",
+        "Duration_de-DE": "00:01:00",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVlCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3c7633a53d52adcc0c84e1dcb96d3f8c10f1d189/audio-1WQjKrh9lCLB.mp3",
         "DisplayText_en-GB": "News from the world",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcWNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b5774ee132b6c1a1a1ec4bc1c649b458c5a14edf/audio-gDbXdb7xsnNI.mp3",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Weltpolitik_I"
       },
       {
         "ID": "23Yes",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Neues aus der Welt",
+        "Duration_de-DE": "00:01:25",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcW9CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--750616ee774549eb33ff37bd316a3bc64bb3af4c/audio-MdKiZMrROxxT.mp3",
         "DisplayText_en-GB": "News from the world",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bcbc7d3da4c030231c91e95fd5eba9735a3b96ed/audio-6Ul0yS2XmaTr.mp3",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Weltpolitik_II"
       },
       {
         "ID": "24",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Kunst und Kultur",
+        "Duration_de-DE": "00:00:51",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7598fd70325a8ca8fac8ca0ffcca5b9a9c3f11a7/audio-0b8gSa84T2RZ.mp3",
         "DisplayText_en-GB": "Art and culture",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcThCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--26e206a95ae31e8382e76fcbfc0b5e0b26e3adac/audio-dhxhaV2Q7zDG.mp3",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Bidermeier_Vormaerz_I"
       },
       {
         "ID": "24Yes",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Kunst und Kultur",
+        "Duration_de-DE": "00:01:05",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b7af5f8f61e589d2513cb48d6f449cc7b5642b95/audio-3SnLRBOQM6Vv.mp3",
         "DisplayText_en-GB": "Art and culture",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdTBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cc19fb1f30542bc6249cb131c7030484df34e01f/audio-3wzDgWlkxhl8.mp3",
         "ImageName": "Icon_von_Merveldt.png#Icon_Hueffer.png",
         "AudioFileName": "Bidermeier_Vormaerz_II"
       },
       {
         "ID": "25",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "1812: Berater des russischen Zaren",
+        "Duration_de-DE": "00:00:44",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcllCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--05bdc681af5f827f11f1dca0565fd68542a82773/audio-MD1VAhUvwjg6.mp3",
         "DisplayText_en-GB": "1812: Advisor to the Russian tsar",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcmNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8b12502395fade27cec6ce58a0eaf2a4948ddd26/audio-a0mg3X2NsYVD.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Stein_in_russischen_Diensten"
       },
       {
         "ID": "26",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "1814/15: Wiener Kongress",
+        "Duration_de-DE": "00:01:26",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcm9CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d48c0429b8feea2b4417f776fa9c5ebcba1c48bd/audio-09H7bWl92afn.mp3",
         "DisplayText_en-GB": "1814/15: Congress of Vienna",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ab7db8d70351d8799eb7b82b94d92f463cd4a90d/audio-OkBPBTtbsQkP.mp3",
         "ImageName": "DinerJohann.png",
         "AudioFileName": "Wiener_Kongress"
       }
     ]
   },
-  /* Bibliothek */
   {
     "RoomName": "Library",
-    "NFCTagAudioAssignment": [
-      {
+    "RoomPlan": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBEdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8fe889dee454386bd647302dcc7fdc04980700f0/Karten_GR-Bibliothek.png",
+    "NFCTagAudioAssignment": [{
         "ID": "27",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Mittelalterforschung",
+        "Duration_de-DE": "00:01:23",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6cd67f07671c8a34a8d33bd0450cba83bc90b7de/audio-pnKkCQNik8q3.mp3",
         "DisplayText_en-GB": "Medieval Studies",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjhCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b6e0b06179c28af33ad014d745b73e5ef232a24d/audio-8P2is5H12I9y.mp3",
         "ImageName": "Bild_von_Stein.png",
         "AudioFileName": "Marienburg_Mittelalterforschung"
       },
       {
         "ID": "28",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Weggefährten",
+        "Duration_de-DE": "00:02:01",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc0lCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ae4f6d0bf6cba22ed217a295623c3761f5365011/audio-TWayyGZaDiIf.mp3",
         "DisplayText_en-GB": "Companions",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc01CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--18d2c98cc2c6b6c987d40e38d2db2d7070732de3/audio-9eF0vK2JCajJ.mp3",
         "ImageName": "Bild_von_Stein.png",
         "AudioFileName": "Brief_Korrespondenzen"
       },
       {
         "ID": "29",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Möbel und Aktentasche",
+        "Duration_de-DE": "00:00:40",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1lCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--515f17e7f6773a533907f19c1cfc6dcbd6130797/audio-ZyPtukQ1Xu2v.mp3",
         "DisplayText_en-GB": "Furniture and briefcase",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2NCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--479e79bb415118981184580c29b75ec91a9221b4/audio-iEvn4WojlXrb.mp3",
         "ImageName": "Bild_von_Stein.png",
         "AudioFileName": "Steins_Aktentasche"
       },
       {
-        "ID": "30",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
-        "DisplayText_de-DE": "1826: 1. Westfälischer Provinziallandtag",
-        "DisplayText_en-GB": "1826: 1st State Parliament of the Province of Westphalia",
-        "ImageName": "Bild_von_Stein.png",
-        "AudioFileName": "Landtag_Westfalen"
-      },
-      {
         "ID": "38",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Schreibschrank und Schreibkommode, um 1820/30",
+        "Duration_de-DE": "00:00:42",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc29CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1cf36c683ee93443192e5081336d14ba222c4e9c/audio-pIyvO1BZ4ipe.mp3",
         "DisplayText_en-GB": "Writing Cabinet and Writing Commode, c. 1820/30",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3NCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--075b973fcab6f80b2c67f6ec8146e6bd467db0be/audio-HfO9FgVPvMyY.mp3",
         "ImageName": "Bild_von_Stein.png",
         "AudioFileName": "Neugotische_Moebel"
+      },
+      {
+        "ID": "30",
+        "DisplayText_de-DE": "1826: 1. Westfälischer Provinziallandtag",
+        "Duration_de-DE": "00:00:51",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkFCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d2492716652fb761af10f07b2ee292dc7f9b23f8/audio-s8gOOwlNB0X7.mp3",
+        "DisplayText_en-GB": "1826: 1st State Parliament of the Province of Westphalia",
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdkVCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f036189fa36a0dcba5497919a052181a3864596b/audio-6N9IOacMKkeZ.mp3",
+        "ImageName": "Bild_von_Stein.png",
+        "AudioFileName": "Landtag_Westfalen"
       }
     ]
   },
-  /* Galerie Ost */
   {
-    "RoomName": "GaleryEast",
-    "NFCTagAudioAssignment": [
-      {
+    "RoomName": "Galery_East",
+    "RoomPlan": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b52df6735bd75bfea03e21f7e7ee7947ea615919/Karten_Galerie-Ost.png",
+    "NFCTagAudioAssignment": [{
         "ID": "31",
-        "AudioFileName": "Plaene_Cappenbergs",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Pläne Cappenbergs",
+        "Duration_de-DE": "00:00:53",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--53a7a6ddadeff93c02b5b0cca2c2a6e215bf4a85/audio-TGyKnlGEoyIl.mp3",
         "DisplayText_en-GB": "Plans Cappenberg",
-        "ImageName": "DinerJohann.png"
-      },
-      {
-        "ID": "32",
-        "AudioFileName": "Stein_Bueste_aus_Walhalla",
-        "Duration_de-DE": "00:00:30",
         "Duration_en-GB": "00:00:30",
-        "DisplayText_de-DE": "Stein-Büste aus der Walhalla",
-        "DisplayText_en-GB": "Stone bust from Valhalla",
-        "ImageName": "DinerJohann.png"
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczhCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--14e59eb9cd61e22b9963ad6201197501e3842ff3/audio-BJsP8VeEbUQt.mp3",
+        "ImageName": "DinerJohann.png",
+        "AudioFileName": "Plaene_Cappenbergs"
       },
       {
         "ID": "33",
-        "AudioFileName": "Naturalienschrank",
-        "Duration_de-DE": "00:00:30",
+        "DisplayText_de-DE": "Stein-Büste aus der Walhalla",
+        "Duration_de-DE": "00:00:58",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlFCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--86dd102dcd77d833d7d4cc0927326079677eb3a8/audio-yrUQMEHDsFjk.mp3",
+        "DisplayText_en-GB": "Stone bust from Valhalla",
         "Duration_en-GB": "00:00:30",
-        "DisplayText_de-DE": "Naturalienschrank",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdlVCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--22ee883bfddec1c65ac24872020c7acd991927fb/audio-o7DbqP2HlGMD.mp3",
+        "ImageName": "DinerJohann.png",
+        "AudioFileName": "Stein_Bueste_aus_Walhalla"
+      },
+      {
+        "ID": "32",
+        "DisplayText_de-DE": "Lageplan Kloster Cappenberg um 1803",
+        "Duration_de-DE": "00:01:01",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdllCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3f7d479b99801caafe60425c340feeb4ad59af2e/audio-PtlvxVGBIzj4.mp3",
         "DisplayText_en-GB": "Naturalien cabinet",
-        "ImageName": "DinerJohann.png"
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b6e6e0fc18a5bff484cc34284c5f786687854da5/audio-gxPylEYiSjC5.mp3",
+        "ImageName": "DinerJohann.png",
+        "AudioFileName": "Naturalienschrank"
       },
       {
         "ID": "34",
-        "AudioFileName": "Norbert",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Heiliger Norbert, um 1750",
+        "Duration_de-DE": "00:00:44",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdG9CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--48ccdefffa7a2e6d0822cf91b7d7e08be065ade5/audio-VXlpXTIcvstI.mp3",
         "DisplayText_en-GB": "St. Norbert, around 1750",
-        "ImageName": "DinerJohann.png"
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdHNCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--901c6bc4259382a074e227375273efc629239c8f/audio-S7Omnpmd4pal.mp3",
+        "ImageName": "DinerJohann.png",
+        "AudioFileName": "Norbert"
       },
       {
         "ID": "35",
-        "AudioFileName": "Brustbild",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
         "DisplayText_de-DE": "Brustbild Adolph von der Lippe, um 1755/60",
+        "Duration_de-DE": "00:00:53",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDRCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5841b7ffd2bedcaf34339031f78bd0e93361e673/audio-gadyPIGJRCpw.mp3",
         "DisplayText_en-GB": "Half-length portrait of Adolph von der Lippe, c. 1755/60",
-        "ImageName": "DinerJohann.png"
+        "Duration_en-GB": "00:00:30",
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDhCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5a76595d4f153bf473aaa523ae72ee35df631acc/audio-0sN7lw1CsB0L.mp3",
+        "ImageName": "DinerJohann.png",
+        "AudioFileName": "Brustbild"
       },
       {
         "ID": "36",
-        "AudioFileName": "Exponat_6",
+        "DisplayText_de-DE": "Exponat 6 (Audio fehlt)",
         "Duration_de-DE": "00:00:30",
+        "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUlCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--43b692d07386c9ec5d31c1bcb7dc7e9c3c7f34f2/audio-X63NfzGB8ZQI.mp3",
+        "DisplayText_en-GB": "Exponat 6 (Audio missing)",
         "Duration_en-GB": "00:00:30",
-        "DisplayText_de-DE": "Exponat 6",
-        "DisplayText_en-GB": "Exponat 6",
-        "ImageName": "DinerJohann.png"
+        "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdU1CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--72e38c7314ff564f55ae23a7895545e582478158/audio-eHxfXoUgBF6s.mp3",
+        "ImageName": "DinerJohann.png",
+        "AudioFileName": "Exponat_6"
       }
     ]
   },
-  /* Steinsaal */
   {
     "RoomName": "Steinsaal",
-    "NFCTagAudioAssignment": [
-      {
-        "ID": "37",
-        "Duration_de-DE": "00:00:30",
-        "Duration_en-GB": "00:00:30",
-        "DisplayText_de-DE": "Gemälde Tod Barbarossas",
-        "DisplayText_en-GB": "Painting Death of Barbarossa",
-        "ImageName": "DinerJohann.png",
-        "AudioFileName": "Tod_Barbarossas"
-      }
-    ]
+    "RoomPlan": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBFUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3065b5860f8c8ed8302e01ddac3826039258e8c0/Karten_Steinsaal.png",
+    "NFCTagAudioAssignment": [{
+      "ID": "37",
+      "DisplayText_de-DE": "Gemälde Tod Barbarossas",
+      "Duration_de-DE": "00:01:14",
+      "file_url_de-DE": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWXc9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--52c09b2ca65cd57fee9b43e68d700e6281bcfe85/audio-H0kB30Jl5Urv.mp3",
+      "DisplayText_en-GB": "Painting Death of Barbarossa",
+      "Duration_en-GB": "00:00:30",
+      "file_url_en-GB": "http://lwl323aag01.fghh.zz/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWTA9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2061beea04cee2b0cee1eb290542d8ff294a80d7/audio-jmNSE7O1kSna.mp3",
+      "ImageName": "DinerJohann.png",
+      "AudioFileName": "Tod_Barbarossas"
+    }]
+  },
+  {
+    "RoomName": "no_room",
+    "RoomPlan": null,
+    "NFCTagAudioAssignment": []
   }
-
 ]
